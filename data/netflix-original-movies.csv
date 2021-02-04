@@ -1,401 +1,358 @@
 ,Movie Name,Imdb Ratings,Genre,Run Time,Director,Stars,Votes,Certificate
-0,Beasts of No Nation (2015),7.7,"Drama, War",137 min,Cary Joji Fukunaga,"Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,","73,977",
-1,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",6.1,"Action, Adventure, Drama",96 min,Woo-Ping Yuen,"Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Natasha Liu Bordizzo,","17,878",PG-13
-2,The Fundamentals of Caring (2016),7.3,"Comedy, Drama",97 min,Rob Burnett,"Craig Roberts,Paul Rudd,Selena Gomez,Alex Huff,","59,989",16
-3,Rebirth (I) (2016),5,Thriller,100 min,Karl Mueller,"Fran Kranz,Adam Goldberg,Nicky Whelan,Kat Foster,","4,443",
-4,Tallulah (2016),6.7,"Comedy, Drama, Romance",111 min,Sian Heder,"Elliot Page,Allison Janney,Tammy Blanchard,Evan Jonigkeit,","18,307",
+0,Beasts of No Nation (2015),7.7,"Drama, War",137 min,Cary Joji Fukunaga,"Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,","73,983",
+1,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",6.1,"Action, Adventure, Drama",96 min,Woo-Ping Yuen,"Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Natasha Liu Bordizzo,","17,882",PG-13
+2,The Fundamentals of Caring (2016),7.3,"Comedy, Drama",97 min,Rob Burnett,"Craig Roberts,Paul Rudd,Selena Gomez,Alex Huff,","60,034",16
+3,Rebirth (I) (2016),5,Thriller,100 min,Karl Mueller,"Fran Kranz,Adam Goldberg,Nicky Whelan,Kat Foster,","4,444",
+4,Tallulah (2016),6.7,"Comedy, Drama, Romance",111 min,Sian Heder,"Elliot Page,Allison Janney,Tammy Blanchard,Evan Jonigkeit,","18,309",
 5,XOXO (2016),5.3,"Drama, Music",92 min,Christopher Louie,"Sarah Hyland,Graham Phillips,Brett DelBuono,Hayley Kiyoko,","6,621",
-6,ARQ (2016),6.4,"Action, Sci-Fi, Thriller",88 min,Tony Elliott,"Robbie Amell,Rachael Taylor,Shaun Benson,Gray Powell,","35,100",
-7,The Siege of Jadotville (2016),7.2,"Action, Drama, History",108 min,Richie Smyth,"Richard Lukunku,Danny Sapani,Andrew Stock,Mark Strong,","32,164",
-8,I Am the Pretty Thing That Lives in the House (2016),4.6,"Drama, Horror, Mystery",89 min,Oz Perkins,"Ruth Wilson,Paula Prentiss,Bob Balaban,Lucy Boynton,","13,046",
-9,7 años (2016),6.8,Drama,77 min,Roger Gual,"Juana Acosta,Alex Brendemühl,Paco León,Manuel Morón,","4,399",
+6,ARQ (2016),6.4,"Action, Sci-Fi, Thriller",88 min,Tony Elliott,"Robbie Amell,Rachael Taylor,Shaun Benson,Gray Powell,","35,109",
+7,The Siege of Jadotville (2016),7.2,"Action, Drama, History",108 min,Richie Smyth,"Richard Lukunku,Danny Sapani,Andrew Stock,Mark Strong,","32,174",
+8,I Am the Pretty Thing That Lives in the House (2016),4.6,"Drama, Horror, Mystery",89 min,Oz Perkins,"Ruth Wilson,Paula Prentiss,Bob Balaban,Lucy Boynton,","13,049",
+9,7 años (2016),6.8,Drama,77 min,Roger Gual,"Juana Acosta,Alex Brendemühl,Paco León,Manuel Morón,","4,402",
 10,Mercy (IV) (2016),4.2,"Drama, Mystery, Thriller",90 min,Chris Sparling,"James Wolk,Tom Lipinski,Caitlin FitzGerald,Mike Donovan,","3,030",
-11,Spectral (2016),6.3,"Action, Adventure, Sci-Fi",107 min,Nic Mathieu,"James Badge Dale,Emily Mortimer,Bruce Greenwood,Max Martini,","52,560",16
-12,Barry (II) (2016),5.8,"Biography, Drama",104 min,Vikram Gandhi,"Devon Terrell,Anya Taylor-Joy,Jason Mitchell,Ellar Coltrane,","6,517",
+11,Spectral (2016),6.3,"Action, Adventure, Sci-Fi",107 min,Nic Mathieu,"James Badge Dale,Emily Mortimer,Bruce Greenwood,Max Martini,","52,571",16
+12,Barry (II) (2016),5.8,"Biography, Drama",104 min,Vikram Gandhi,"Devon Terrell,Anya Taylor-Joy,Jason Mitchell,Ellar Coltrane,","6,519",
 13,Coin Heist (2017),4.8,"Crime, Drama, Romance",97 min,Emily Hagins,"Alex Saxon,Alexis G. Zall,Sasha Pieterse,Jay Walker,","2,441",
-14,Clinical (2017),5.1,"Horror, Thriller",104 min,Alistair Legrand,"Vinessa Shaw,Kevin Rahm,India Eisley,Aaron Stanford,","6,827",
-15,iBoy (2017),6,"Action, Crime, Sci-Fi",90 min,Adam Randall,"Bill Milner,Maisie Williams,Miranda Richardson,Rory Kinnear,","20,594",18
-16,Imperial Dreams (2014),6.7,Drama,87 min,Malik Vitthal,"John Boyega,Rotimi,Glenn Plummer,De'aundre Bonds,","4,062",
-17,I Don't Feel at Home in This World Anymore,6.9,"Comedy, Crime, Drama",93 min,Macon Blair,"Melanie Lynskey,Chris Doubek,Marilyn Faith Hickey,Jared Roylance,","49,054",
+14,Clinical (2017),5.1,"Horror, Thriller",104 min,Alistair Legrand,"Vinessa Shaw,Kevin Rahm,India Eisley,Aaron Stanford,","6,831",
+15,iBoy (2017),6,"Action, Crime, Sci-Fi",90 min,Adam Randall,"Bill Milner,Maisie Williams,Miranda Richardson,Rory Kinnear,","20,600",18
+16,Imperial Dreams (2014),6.7,Drama,87 min,Malik Vitthal,"John Boyega,Rotimi,Glenn Plummer,De'aundre Bonds,","4,063",
+17,I Don't Feel at Home in This World Anymore,6.9,"Comedy, Crime, Drama",93 min,Macon Blair,"Melanie Lynskey,Chris Doubek,Marilyn Faith Hickey,Jared Roylance,","49,068",
 18,Burning Sands (2017),6,Drama,96 min,Gerard McMurray,"Trevor Jackson,Tosin Cole,DeRon Horton,Alfre Woodard,","2,575",
-19,Deidra & Laney Rob a Train (2017),6.1,"Comedy, Crime, Drama",92 min,Sydney Freeland,"Ashleigh Murray,Rachel Crow,Lance Gray,Danielle Nicolet,","1,625",
-20,The Most Hated Woman in America (2017),6.1,"Biography, Drama, History",91 min,Tommy O'Haver,"Melissa Leo,Brandon Mychal Smith,Juno Temple,Michael Chernus,","5,480",
-21,The Discovery (I) (2017),6.3,"Drama, Romance, Sci-Fi",102 min,Charlie McDowell,"Robert Redford,Mary Steenburgen,Brian McCarthy,Jason Segel,","29,882",
-22,Sand Castle (2017),6.3,"Action, Drama, War",113 min,Fernando Coimbra,"Nicholas Hoult,Logan Marshall-Green,Henry Cavill,Glen Powell,","19,618",16+
-23,Tramps (2016),6.5,"Comedy, Romance",82 min,Adam Leon,"Callum Turner,Grace Van Patten,Michal Vondel,Mike Birbiglia,","4,633",
+19,Deidra & Laney Rob a Train (2017),6.1,"Comedy, Crime, Drama",92 min,Sydney Freeland,"Ashleigh Murray,Rachel Crow,Lance Gray,Danielle Nicolet,","1,626",
+20,The Most Hated Woman in America (2017),6.1,"Biography, Drama, History",91 min,Tommy O'Haver,"Melissa Leo,Brandon Mychal Smith,Juno Temple,Michael Chernus,","5,482",
+21,The Discovery (I) (2017),6.3,"Drama, Romance, Sci-Fi",102 min,Charlie McDowell,"Robert Redford,Mary Steenburgen,Brian McCarthy,Jason Segel,","29,893",
+22,Sand Castle (2017),6.3,"Action, Drama, War",113 min,Fernando Coimbra,"Nicholas Hoult,Logan Marshall-Green,Henry Cavill,Glen Powell,","19,624",16+
+23,Tramps (2016),6.5,"Comedy, Romance",82 min,Adam Leon,"Callum Turner,Grace Van Patten,Michal Vondel,Mike Birbiglia,","4,636",
 24,Blame! (2017),6.7,"Animation, Action, Drama",106 min,Hiroyuki Seshita,"Takahiro Sakurai,Kana Hanazawa,Sora Amamiya,Mamoru Miyano,","7,025",
-25,Shimmer Lake (2017),6.3,"Crime, Drama, Mystery",86 min,Oren Uziel,"Benjamin Walker,Rainn Wilson,Stephanie Sigman,John Michael Higgins,","11,694",
-26,Okja (2017),7.3,"Action, Adventure, Drama",120 min,Bong Joon Ho,"Tilda Swinton,Paul Dano,Seo-hyun Ahn,Jake Gyllenhaal,","105,053",UA
-27,To the Bone (I) (2017),6.8,Drama,107 min,Marti Noxon,"Rebekah Kennedy,Lily Collins,Dana L. Wilson,Ziah Colon,","41,176",
-28,Death Note (I) (2017),4.5,"Action, Crime, Drama",101 min,Adam Wingard,"Nat Wolff,LaKeith Stanfield,Margaret Qualley,Shea Whigham,","76,248",18
-29,First They Killed My Father (2017),7.2,"Biography, Drama, History",136 min,Angelina Jolie,"Sareum Srey Moch,Phoeung Kompheak,Sveng Socheata,Mun Kimhak,","15,644",
-30,Gerald's Game (2017),6.6,"Drama, Horror, Thriller",103 min,Mike Flanagan,"Carla Gugino,Bruce Greenwood,Chiara Aurelia,Carel Struycken,","90,037",18
-31,Our Souls at Night (2017),6.9,"Drama, Romance",103 min,Ritesh Batra,"Robert Redford,Jane Fonda,Matthias Schoenaerts,Iain Armitage,","11,370",
-32,The Meyerowitz Stories (New and Selected) (2017),6.9,"Comedy, Drama",112 min,Noah Baumbach,"Adam Sandler,Grace Van Patten,Dustin Hoffman,Elizabeth Marvel,","42,771",
-33,1922 (2017),6.3,"Crime, Drama, Horror",102 min,Zak Hilditch,"Thomas Jane,Molly Parker,Dylan Schmid,Kaitlyn Bernard,","53,286",18
-34,Wheelman (2017),6.4,"Action, Crime, Thriller",82 min,Jeremy Rush,"Frank Grillo,Caitlin Carmichael,Garret Dillahunt,Shea Whigham,","17,558",
-35,Christmas Inheritance (2017),5.7,"Comedy, Drama, Romance",104 min,Ernie Barbarash,"Eliza Taylor,Jake Lacy,Andie MacDowell,Neil Crone,","10,022",
-36,Bright (I) (2017),6.3,"Action, Fantasy, Thriller",117 min,David Ayer,"Will Smith,Joel Edgerton,Noomi Rapace,Edgar Ramírez,","168,895",18
-37,The Open House (2018),3.2,"Horror, Thriller",94 min,Matt Angel,"Suzanne Coote,Dylan Minnette,Piercey Dalton,Patricia Bethune,Sharif Atkins,","31,217",
-38,The Cloverfield Paradox (2018),5.5,"Action, Horror, Sci-Fi",102 min,Julius Onah,"Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl,John Ortiz,","95,511",PG-13
-39,Irreplaceable You (2018),6.4,"Comedy, Drama, Romance",96 min,Stephanie Laing,"Gugu Mbatha-Raw,Michiel Huisman,Steve Coogan,Timothy Simons,","8,164",
-40,Mute (II) (2018),5.4,"Mystery, Sci-Fi, Thriller",126 min,Duncan Jones,"Alexander Skarsgård,Paul Rudd,Justin Theroux,Levi Eisenblätter,","30,922",18
-41,The Outsider (I) (2018),6.3,"Action, Crime, Drama",120 min,Martin Zandvliet,"Jared Leto,Tadanobu Asano,Kippei Shîna,Shioli Kutsuna,","20,617",
+25,Shimmer Lake (2017),6.3,"Crime, Drama, Mystery",86 min,Oren Uziel,"Benjamin Walker,Rainn Wilson,Stephanie Sigman,John Michael Higgins,","11,698",
+26,Okja (2017),7.3,"Action, Adventure, Drama",120 min,Bong Joon Ho,"Tilda Swinton,Paul Dano,Seo-hyun Ahn,Jake Gyllenhaal,","105,076",UA
+27,To the Bone (I) (2017),6.8,Drama,107 min,Marti Noxon,"Rebekah Kennedy,Lily Collins,Dana L. Wilson,Ziah Colon,","41,187",
+28,Death Note (I) (2017),4.5,"Action, Crime, Drama",101 min,Adam Wingard,"Nat Wolff,LaKeith Stanfield,Margaret Qualley,Shea Whigham,","76,256",18
+29,First They Killed My Father (2017),7.2,"Biography, Drama, History",136 min,Angelina Jolie,"Sareum Srey Moch,Phoeung Kompheak,Sveng Socheata,Mun Kimhak,","15,648",
+30,Gerald's Game (2017),6.6,"Drama, Horror, Thriller",103 min,Mike Flanagan,"Carla Gugino,Bruce Greenwood,Chiara Aurelia,Carel Struycken,","90,050",18
+31,Our Souls at Night (2017),6.9,"Drama, Romance",103 min,Ritesh Batra,"Robert Redford,Jane Fonda,Matthias Schoenaerts,Iain Armitage,","11,375",
+32,The Meyerowitz Stories (New and Selected) (2017),6.9,"Comedy, Drama",112 min,Noah Baumbach,"Adam Sandler,Grace Van Patten,Dustin Hoffman,Elizabeth Marvel,","42,780",
+33,1922 (2017),6.3,"Crime, Drama, Horror",102 min,Zak Hilditch,"Thomas Jane,Molly Parker,Dylan Schmid,Kaitlyn Bernard,","53,304",18
+34,Wheelman (2017),6.4,"Action, Crime, Thriller",82 min,Jeremy Rush,"Frank Grillo,Caitlin Carmichael,Garret Dillahunt,Shea Whigham,","17,562",
+35,Christmas Inheritance (2017),5.7,"Comedy, Drama, Romance",104 min,Ernie Barbarash,"Eliza Taylor,Jake Lacy,Andie MacDowell,Neil Crone,","10,024",
+36,Bright (I) (2017),6.3,"Action, Fantasy, Thriller",117 min,David Ayer,"Will Smith,Joel Edgerton,Noomi Rapace,Edgar Ramírez,","168,913",18
+37,The Open House (2018),3.2,"Horror, Thriller",94 min,Matt Angel,"Suzanne Coote,Dylan Minnette,Piercey Dalton,Patricia Bethune,Sharif Atkins,","31,220",
+38,The Cloverfield Paradox (2018),5.5,"Action, Horror, Sci-Fi",102 min,Julius Onah,"Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl,John Ortiz,","95,525",PG-13
+39,Irreplaceable You (2018),6.4,"Comedy, Drama, Romance",96 min,Stephanie Laing,"Gugu Mbatha-Raw,Michiel Huisman,Steve Coogan,Timothy Simons,","8,165",
+40,Mute (II) (2018),5.4,"Mystery, Sci-Fi, Thriller",126 min,Duncan Jones,"Alexander Skarsgård,Paul Rudd,Justin Theroux,Levi Eisenblätter,","30,931",18
+41,The Outsider (I) (2018),6.3,"Action, Crime, Drama",120 min,Martin Zandvliet,"Jared Leto,Tadanobu Asano,Kippei Shîna,Shioli Kutsuna,","20,622",
 42,Paradox (II) (2018),3.9,"Fantasy, Music",73 min,Daryl Hannah,"Neil Young,Lukas Nelson,Micah Nelson,Corey McCormick,",616,
 43,O Matador (2017),6.1,"Action, Western",99 min,Marcelo Galvão,"Maria de Medeiros,Diogo Morgado,Kyle McCarley,Thaila Ayala,","2,161",
-44,Roxanne Roxanne (2017),6.2,"Biography, Drama, Music",100 min,Michael Larnell,"Chanté Adams,Nia Long,Mahershala Ali,Germar Terrell Gardner,","2,765",
+44,Roxanne Roxanne (2017),6.2,"Biography, Drama, Music",100 min,Michael Larnell,"Chanté Adams,Nia Long,Mahershala Ali,Germar Terrell Gardner,","2,766",
 45,First Match (2018),6.4,"Drama, Sport",102 min,Olivia Newman,"Elvire Emanuelle,Yahya Abdul-Mateen II,Colman Domingo,Jharrel Jerome,","1,972",
 46,6 Balloons (2018),5.9,Drama,74 min,Marja-Lewis Ryan,"Abbi Jacobson,Dave Franco,Charlotte Carel,Madeline Carel,","3,659",
-47,Amateur (2018),5.9,"Drama, Sport",96 min,Ryan Koo,"Michael Rainey Jr.,Tekola Cornetet,Hanna Longo,Walter Anaruk,","3,665",
-48,Come Sunday (2018),6,"Biography, Drama",106 min,Joshua Marston,"Chiwetel Ejiofor,Gerard Catus,Allie McCulloch,LaKeith Stanfield,","1,980",
-49,Rimetti a noi i nostri debiti (2018),6,Drama,104 min,Antonio Morabito,"Claudio Santamaria,Marco Giallini,Jerzy Stuhr,Flonja Kodheli,","1,343",
-50,Lust Stories (2018),6.5,"Drama, Romance",120 min,Zoya Akhtar,"Dibakar Banerjee,Karan Johar,Anurag Kashyap,Radhika Apte,Bhumi Pednekar,Kiara Advani,Vicky Kaushal,","9,693",A
-51,Calibre (2018),6.8,"Drama, Thriller",101 min,Matt Palmer,"Jack Lowden,Martin McCann,Tony Curran,Ian Pirie,","22,638",
-52,Tau (2018),5.8,"Sci-Fi, Thriller",97 min,Federico D'Alessandro,"Maika Monroe,Ed Skrein,Gary Oldman,Fiston Barek,","27,074",R
-53,How It Ends (2018),5,"Action, Adventure, Drama",113 min,David M. Rosenthal,"Theo James,Kat Graham,Nancy Sorel,Nicole Ari Parker,","44,790",
-54,Extinction (2018),5.8,"Action, Drama, Sci-Fi",95 min,Ben Young,"Michael Peña,Lizzy Caplan,Amelia Crouch,Erica Tremblay,","46,787",16
+47,Amateur (2018),5.9,"Drama, Sport",96 min,Ryan Koo,"Michael Rainey Jr.,Tekola Cornetet,Hanna Longo,Walter Anaruk,","3,666",
+48,Come Sunday (2018),6,"Biography, Drama",106 min,Joshua Marston,"Chiwetel Ejiofor,Gerard Catus,Allie McCulloch,LaKeith Stanfield,","1,981",
+49,Rimetti a noi i nostri debiti (2018),6,Drama,104 min,Antonio Morabito,"Claudio Santamaria,Marco Giallini,Jerzy Stuhr,Flonja Kodheli,","1,344",
+50,Lust Stories (2018),6.5,"Drama, Romance",120 min,Zoya Akhtar,"Dibakar Banerjee,Karan Johar,Anurag Kashyap,Radhika Apte,Bhumi Pednekar,Kiara Advani,Vicky Kaushal,","9,694",A
+51,Calibre (2018),6.8,"Drama, Thriller",101 min,Matt Palmer,"Jack Lowden,Martin McCann,Tony Curran,Ian Pirie,","22,646",
+52,Tau (2018),5.8,"Sci-Fi, Thriller",97 min,Federico D'Alessandro,"Maika Monroe,Ed Skrein,Gary Oldman,Fiston Barek,","27,081",R
+53,How It Ends (2018),5,"Action, Adventure, Drama",113 min,David M. Rosenthal,"Theo James,Kat Graham,Nancy Sorel,Nicole Ari Parker,","44,793",
+54,Extinction (2018),5.8,"Action, Drama, Sci-Fi",95 min,Ben Young,"Michael Peña,Lizzy Caplan,Amelia Crouch,Erica Tremblay,","46,797",16
 55,La femme la plus assassinée du monde (2018),5.3,"Biography, Drama, Mystery",102 min,Franck Ribière,"Anna Mouglalis,Niels Schneider,Eric Godon,André Wilms,",931,
-56,Next Gen (I) (2018),6.6,"Animation, Action, Adventure",106 min,Kevin R. Adams,"Joe Ksander,Ricardo Curtis,John Krasinski,Charlyne Yi,Jason Sudeikis,Michael Peña,","14,126",
-57,The Land of Steady Habits (2018),6.2,"Comedy, Drama",98 min,Nicole Holofcener,"Bill Camp,Elizabeth Marvel,Ben Mendelsohn,Connie Britton,","6,404",
-58,The Angel (2018),6.6,"Drama, Thriller",114 min,Ariel Vromen,"Toby Kebbell,Marwan Kenzari,Hannah Ware,Waleed Zuaiter,","11,944",
-59,Hold the Dark (2018),5.6,"Action, Drama, Thriller",125 min,Jeremy Saulnier,"Jeffrey Wright,Alexander Skarsgård,James Badge Dale,Riley Keough,","33,449",16
-60,Private Life (2018),7.2,"Comedy, Drama",123 min,Tamara Jenkins,"Kathryn Hahn,Paul Giamatti,Gabrielle Reid,Amy Russ,","16,039",R
-61,22 July (2018),6.8,"Crime, Drama, History",143 min,Paul Greengrass,"Anders Danielsen Lie,Jonas Strand Gravli,Jon Øigarden,Maria Bock,","28,296",R
-62,Apostle (2018),6.3,"Drama, Fantasy, Horror",130 min,Gareth Evans,"Dan Stevens,Richard Elfyn,Paul Higgins,Bill Milner,","43,631",
-63,The Night Comes for Us (2018),7,"Action, Thriller",121 min,Timo Tjahjanto,"Joe Taslim,Iko Uwais,Hannah Al Rashid,Julie Estelle,","21,178",18
-64,Been So Long (2018),5.4,"Drama, Musical, Romance",100 min,Tinge Krishnan,"Michaela Coel,Mya Lewis,Arinzé Kene,George MacKay,",921,
-65,The Other Side of the Wind (2018),6.8,Drama,122 min,Orson Welles,"John Huston,Oja Kodar,Peter Bogdanovich,Susan Strasberg,","6,313",R
-66,Outlaw King (2018),6.9,"Action, Biography, Drama",121 min,David Mackenzie,"Chris Pine,Stephen Dillane,Rebecca Robin,Billy Howle,","60,268",18
-67,Cam (2018),5.9,"Drama, Horror, Mystery",94 min,Daniel Goldhaber,"Madeline Brewer,Patch Darragh,Melora Walters,Devin Druid,","26,797",
-68,The Ballad of Buster Scruggs (2018),7.3,"Comedy, Drama, Musical",133 min,Ethan Coen,"Joel Coen,Tim Blake Nelson,Willie Watson,Clancy Brown,Danny McCarthy,","122,678",R
-69,Mowgli (2018),6.5,"Adventure, Drama, Fantasy",104 min,Andy Serkis,"Christian Bale,Cate Blanchett,Benedict Cumberbatch,Naomie Harris,","56,448",PG-13
-70,Roma (2018),7.7,Drama,135 min,Alfonso Cuarón,"Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,","140,443",16
-71,Bird Box (2018),6.6,"Horror, Sci-Fi",124 min,Susanne Bier,"Sandra Bullock,Trevante Rhodes,John Malkovich,Sarah Paulson,","279,690",18
-72,IO (2019),4.7,"Adventure, Drama, Sci-Fi",96 min,Jonathan Helpert,"Margaret Qualley,Anthony Mackie,Danny Huston,Tom Payne,","31,119",
+56,Next Gen (I) (2018),6.6,"Animation, Action, Adventure",106 min,Kevin R. Adams,"Joe Ksander,Ricardo Curtis,John Krasinski,Charlyne Yi,Jason Sudeikis,Michael Peña,","14,129",
+57,The Land of Steady Habits (2018),6.2,"Comedy, Drama",98 min,Nicole Holofcener,"Bill Camp,Elizabeth Marvel,Ben Mendelsohn,Connie Britton,","6,408",
+58,The Angel (2018),6.6,"Drama, Thriller",114 min,Ariel Vromen,"Toby Kebbell,Marwan Kenzari,Hannah Ware,Waleed Zuaiter,","11,947",
+59,Hold the Dark (2018),5.6,"Action, Drama, Thriller",125 min,Jeremy Saulnier,"Jeffrey Wright,Alexander Skarsgård,James Badge Dale,Riley Keough,","33,454",16
+60,Private Life (2018),7.2,"Comedy, Drama",123 min,Tamara Jenkins,"Kathryn Hahn,Paul Giamatti,Gabrielle Reid,Amy Russ,","16,044",R
+61,22 July (2018),6.8,"Crime, Drama, History",143 min,Paul Greengrass,"Anders Danielsen Lie,Jonas Strand Gravli,Jon Øigarden,Maria Bock,","28,307",R
+62,Apostle (2018),6.3,"Drama, Fantasy, Horror",130 min,Gareth Evans,"Dan Stevens,Richard Elfyn,Paul Higgins,Bill Milner,","43,640",
+63,The Night Comes for Us (2018),7,"Action, Thriller",121 min,Timo Tjahjanto,"Joe Taslim,Iko Uwais,Hannah Al Rashid,Julie Estelle,","21,185",18
+64,Been So Long (2018),5.4,"Drama, Musical, Romance",100 min,Tinge Krishnan,"Michaela Coel,Mya Lewis,Arinzé Kene,George MacKay,",922,
+65,The Other Side of the Wind (2018),6.8,Drama,122 min,Orson Welles,"John Huston,Oja Kodar,Peter Bogdanovich,Susan Strasberg,","6,314",R
+66,Outlaw King (2018),6.9,"Action, Biography, Drama",121 min,David Mackenzie,"Chris Pine,Stephen Dillane,Rebecca Robin,Billy Howle,","60,280",18
+67,Cam (2018),5.9,"Drama, Horror, Mystery",94 min,Daniel Goldhaber,"Madeline Brewer,Patch Darragh,Melora Walters,Devin Druid,","26,806",
+68,The Ballad of Buster Scruggs (2018),7.3,"Comedy, Drama, Musical",133 min,Ethan Coen,"Joel Coen,Tim Blake Nelson,Willie Watson,Clancy Brown,Danny McCarthy,","122,711",R
+69,Mowgli (2018),6.5,"Adventure, Drama, Fantasy",104 min,Andy Serkis,"Christian Bale,Cate Blanchett,Benedict Cumberbatch,Naomie Harris,","56,451",PG-13
+70,Roma (2018),7.7,Drama,135 min,Alfonso Cuarón,"Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,","140,469",16
+71,Bird Box (2018),6.6,"Horror, Sci-Fi",124 min,Susanne Bier,"Sandra Bullock,Trevante Rhodes,John Malkovich,Sarah Paulson,","279,740",18
+72,IO (2019),4.7,"Adventure, Drama, Sci-Fi",96 min,Jonathan Helpert,"Margaret Qualley,Anthony Mackie,Danny Huston,Tom Payne,","31,125",
 73,Soni (2018),7.1,Drama,97 min,Ivan Ayr,"Geetika Vidya Ohlyan,Saloni Batra,Vikas Shukla,Mohit Chauhan,","2,379",
-74,Polar (I) (2019),6.3,"Action, Crime, Drama",118 min,Jonas Åkerlund,"Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick,Fei Ren,","75,562",18
-75,Velvet Buzzsaw (2019),5.7,"Horror, Mystery, Thriller",113 min,Dan Gilroy,"Jake Gyllenhaal,Rene Russo,Zawe Ashton,Tom Sturridge,","54,221",R
-76,High Flying Bird (2019),6.2,"Drama, Sport",90 min,Steven Soderbergh,"André Holland,Melvin Gregg,Eddie Tavares,Farah Bala,","7,598",
+74,Polar (I) (2019),6.3,"Action, Crime, Drama",118 min,Jonas Åkerlund,"Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick,Fei Ren,","75,585",18
+75,Velvet Buzzsaw (2019),5.7,"Horror, Mystery, Thriller",113 min,Dan Gilroy,"Jake Gyllenhaal,Rene Russo,Zawe Ashton,Tom Sturridge,","54,233",R
+76,High Flying Bird (2019),6.2,"Drama, Sport",90 min,Steven Soderbergh,"André Holland,Melvin Gregg,Eddie Tavares,Farah Bala,","7,600",
 77,Firebrand (2019),5.1,Drama,116 min,Aruna Raje,"Usha Jadhav,Girish Kulkarni,Sachin Khedekar,Rajeshwari Sachdev,",242,
 78,Paris est à nous (2019),4.6,Drama,83 min,Elisabeth Vogler,"Noémie Schmidt,Grégoire Isvarine,Marie Mottet,Lou Castel,","1,254",
-79,Paddleton (2019),7.2,"Comedy, Drama",89 min,Alex Lehmann,"Christine Woods,Mark Duplass,Ray Romano,Jen Sung,","11,262",
-80,Walk,6.4,"Biography, Drama",100 min,Conor Allyn,"Spencer Locke,Missi Pyle,Bailey Chase,Alyvia Alyn Lind,","1,921",
+79,Paddleton (2019),7.2,"Comedy, Drama",89 min,Alex Lehmann,"Christine Woods,Mark Duplass,Ray Romano,Jen Sung,","11,267",
+80,Walk,6.4,"Biography, Drama",100 min,Conor Allyn,"Spencer Locke,Missi Pyle,Bailey Chase,Alyvia Alyn Lind,","1,922",
 81,Juanita (I) (2019),5.9,Drama,90 min,Clark Johnson,"Alfre Woodard,Bonnie Johnson,Jordan Nia Elizabeth,Acoryé White,","2,092",
-82,Triple Frontier (2019),6.4,"Action, Adventure, Crime",125 min,J.C. Chandor,"Ben Affleck,Oscar Isaac,Charlie Hunnam,Garrett Hedlund,","108,047",18
-83,The Dirt (2018),7,"Biography, Comedy, Drama",107 min,Jeff Tremaine,"Douglas Booth,Iwan Rheon,Machine Gun Kelly,Daniel Webber,","39,924",
-84,The Highwaymen (2019),6.9,"Biography, Crime, Drama",132 min,John Lee Hancock,"Kevin Costner,Woody Harrelson,Kathy Bates,John Carroll Lynch,","75,273",R
-85,The Ridiculous 6 (2015),4.8,"Action, Adventure, Comedy",119 min,Frank Coraci,"Adam Sandler,Terry Crews,Jorge Garcia,Taylor Lautner,","44,542",
-86,Pee-wee's Big Holiday (2016),6.1,"Comedy, Family",90 min,John Lee,"Paul Reubens,Jordan Black,Doug Cox,Linda Porter,","7,272",
-87,Special Correspondents (2016),5.8,Comedy,101 min,Ricky Gervais,"Ricky Gervais,Eric Bana,Vera Farmiga,Kelly Macdonald,","20,725",
-88,The Do-Over (2016),5.7,"Action, Adventure, Comedy",108 min,Steven Brill,"Adam Sandler,David Spade,Paula Patton,Kathryn Hahn,","40,679",18
+82,Triple Frontier (2019),6.4,"Action, Adventure, Crime",125 min,J.C. Chandor,"Ben Affleck,Oscar Isaac,Charlie Hunnam,Garrett Hedlund,","108,066",18
+83,The Dirt (2018),7,"Biography, Comedy, Drama",107 min,Jeff Tremaine,"Douglas Booth,Iwan Rheon,Machine Gun Kelly,Daniel Webber,","39,935",
+84,The Highwaymen (2019),6.9,"Biography, Crime, Drama",132 min,John Lee Hancock,"Kevin Costner,Woody Harrelson,Kathy Bates,John Carroll Lynch,","75,301",R
+85,The Ridiculous 6 (2015),4.8,"Action, Adventure, Comedy",119 min,Frank Coraci,"Adam Sandler,Terry Crews,Jorge Garcia,Taylor Lautner,","44,547",
+86,Pee-wee's Big Holiday (2016),6.1,"Comedy, Family",90 min,John Lee,"Paul Reubens,Jordan Black,Doug Cox,Linda Porter,","7,273",
+87,Special Correspondents (2016),5.8,Comedy,101 min,Ricky Gervais,"Ricky Gervais,Eric Bana,Vera Farmiga,Kelly Macdonald,","20,728",
+88,The Do-Over (2016),5.7,"Action, Adventure, Comedy",108 min,Steven Brill,"Adam Sandler,David Spade,Paula Patton,Kathryn Hahn,","40,687",18
 89,Brahman Naman (2016),5.6,Comedy,95 min,Qaushiq Mukherjee,"Shashank Arora,Tanmay Dhanania,Chaitanya Varad,Vaishwath Shankar,","1,755",18
-90,Mascots (2016),5.7,Comedy,89 min,Christopher Guest,"Zach Woods,Wayne Wilderson,Sarah Baker,Michael Hitchcock,","6,733",
-91,True Memoirs of an International Assassin (2016),5.9,"Action, Comedy, Crime",98 min,Jeff Wadlow,"Kevin James,Kim Coates,Maurice Compte,Zulay Henao,","20,422",
-92,Take the 10 (2017),4.7,Comedy,80 min,Chester Tam,"Josh Peck,Tony Revolori,Kevin Corrigan,Chester Tam,","2,813",
+90,Mascots (2016),5.7,Comedy,89 min,Christopher Guest,"Zach Woods,Wayne Wilderson,Sarah Baker,Michael Hitchcock,","6,735",
+91,True Memoirs of an International Assassin (2016),5.9,"Action, Comedy, Crime",98 min,Jeff Wadlow,"Kevin James,Kim Coates,Maurice Compte,Zulay Henao,","20,423",
+92,Take the 10 (2017),4.7,Comedy,80 min,Chester Tam,"Josh Peck,Tony Revolori,Kevin Corrigan,Chester Tam,","2,814",
 93,Girlfriend's Day (2017),5.2,"Comedy, Drama",65 min,Michael Paul Stephenson,"Bob Odenkirk,Amber Tamblyn,Stacy Keach,Alex Karpovsky,","3,465",
-94,Win It All (2017),6.2,Comedy,88 min,Joe Swanberg,"Jake Johnson,Rony Shemon,Morgan Ng,Edward Kaihatsu,","8,214",
-95,Sandy Wexler (2017),5.2,Comedy,130 min,Steven Brill,"Adam Sandler,Jennifer Hudson,Kevin James,Colin Quinn,","14,854",
-96,Small Crimes (2017),5.8,"Crime, Drama, Thriller",95 min,E.L. Katz,"Nikolaj Coster-Waldau,Robert Forster,Jacki Weaver,Molly Parker,","6,899",
+94,Win It All (2017),6.2,Comedy,88 min,Joe Swanberg,"Jake Johnson,Rony Shemon,Morgan Ng,Edward Kaihatsu,","8,217",
+95,Sandy Wexler (2017),5.2,Comedy,130 min,Steven Brill,"Adam Sandler,Jennifer Hudson,Kevin James,Colin Quinn,","14,855",
+96,Small Crimes (2017),5.8,"Crime, Drama, Thriller",95 min,E.L. Katz,"Nikolaj Coster-Waldau,Robert Forster,Jacki Weaver,Molly Parker,","6,900",
 97,Handsome: A Netflix Mystery Movie (2017),5.2,"Comedy, Mystery",80 min,Jeff Garlin,"Ava Acres,Armani GreatDane,Dino Battaglia,Brent Bradshaw,","4,006",
-98,War Machine (2017),6,"Comedy, Drama, War",122 min,David Michôd,"Brad Pitt,Daniel Betts,John Magaro,Emory Cohen,","41,910",
-99,The Incredible Jessica James (2017),6.5,Comedy,85 min,Jim Strouse,"Jessica Williams,Chris O'Dowd,LaKeith Stanfield,Noël Wells,","6,403",
-100,Beasts of No Nation (2015),7.7,"Drama, War",137 min,Cary Joji Fukunaga,"Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,","73,977",
-101,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",6.1,"Action, Adventure, Drama",96 min,Woo-Ping Yuen,"Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Natasha Liu Bordizzo,","17,878",PG-13
-102,The Fundamentals of Caring (2016),7.3,"Comedy, Drama",97 min,Rob Burnett,"Craig Roberts,Paul Rudd,Selena Gomez,Alex Huff,","59,989",16
-103,Rebirth (I) (2016),5,Thriller,100 min,Karl Mueller,"Fran Kranz,Adam Goldberg,Nicky Whelan,Kat Foster,","4,443",
-104,Tallulah (2016),6.7,"Comedy, Drama, Romance",111 min,Sian Heder,"Elliot Page,Allison Janney,Tammy Blanchard,Evan Jonigkeit,","18,307",
-105,XOXO (2016),5.3,"Drama, Music",92 min,Christopher Louie,"Sarah Hyland,Graham Phillips,Brett DelBuono,Hayley Kiyoko,","6,621",
-106,ARQ (2016),6.4,"Action, Sci-Fi, Thriller",88 min,Tony Elliott,"Robbie Amell,Rachael Taylor,Shaun Benson,Gray Powell,","35,100",
-107,The Siege of Jadotville (2016),7.2,"Action, Drama, History",108 min,Richie Smyth,"Richard Lukunku,Danny Sapani,Andrew Stock,Mark Strong,","32,164",
-108,I Am the Pretty Thing That Lives in the House (2016),4.6,"Drama, Horror, Mystery",89 min,Oz Perkins,"Ruth Wilson,Paula Prentiss,Bob Balaban,Lucy Boynton,","13,046",
-109,7 años (2016),6.8,Drama,77 min,Roger Gual,"Juana Acosta,Alex Brendemühl,Paco León,Manuel Morón,","4,399",
-110,Mercy (IV) (2016),4.2,"Drama, Mystery, Thriller",90 min,Chris Sparling,"James Wolk,Tom Lipinski,Caitlin FitzGerald,Mike Donovan,","3,030",
-111,Spectral (2016),6.3,"Action, Adventure, Sci-Fi",107 min,Nic Mathieu,"James Badge Dale,Emily Mortimer,Bruce Greenwood,Max Martini,","52,560",16
-112,Barry (II) (2016),5.8,"Biography, Drama",104 min,Vikram Gandhi,"Devon Terrell,Anya Taylor-Joy,Jason Mitchell,Ellar Coltrane,","6,517",
-113,Coin Heist (2017),4.8,"Crime, Drama, Romance",97 min,Emily Hagins,"Alex Saxon,Alexis G. Zall,Sasha Pieterse,Jay Walker,","2,441",
-114,Clinical (2017),5.1,"Horror, Thriller",104 min,Alistair Legrand,"Vinessa Shaw,Kevin Rahm,India Eisley,Aaron Stanford,","6,827",
-115,iBoy (2017),6,"Action, Crime, Sci-Fi",90 min,Adam Randall,"Bill Milner,Maisie Williams,Miranda Richardson,Rory Kinnear,","20,594",18
-116,Imperial Dreams (2014),6.7,Drama,87 min,Malik Vitthal,"John Boyega,Rotimi,Glenn Plummer,De'aundre Bonds,","4,062",
-117,I Don't Feel at Home in This World Anymore,6.9,"Comedy, Crime, Drama",93 min,Macon Blair,"Melanie Lynskey,Chris Doubek,Marilyn Faith Hickey,Jared Roylance,","49,054",
-118,Burning Sands (2017),6,Drama,96 min,Gerard McMurray,"Trevor Jackson,Tosin Cole,DeRon Horton,Alfre Woodard,","2,575",
-119,Deidra & Laney Rob a Train (2017),6.1,"Comedy, Crime, Drama",92 min,Sydney Freeland,"Ashleigh Murray,Rachel Crow,Lance Gray,Danielle Nicolet,","1,625",
-120,The Most Hated Woman in America (2017),6.1,"Biography, Drama, History",91 min,Tommy O'Haver,"Melissa Leo,Brandon Mychal Smith,Juno Temple,Michael Chernus,","5,480",
-121,The Discovery (I) (2017),6.3,"Drama, Romance, Sci-Fi",102 min,Charlie McDowell,"Robert Redford,Mary Steenburgen,Brian McCarthy,Jason Segel,","29,882",
-122,Sand Castle (2017),6.3,"Action, Drama, War",113 min,Fernando Coimbra,"Nicholas Hoult,Logan Marshall-Green,Henry Cavill,Glen Powell,","19,618",16+
-123,Tramps (2016),6.5,"Comedy, Romance",82 min,Adam Leon,"Callum Turner,Grace Van Patten,Michal Vondel,Mike Birbiglia,","4,633",
-124,Blame! (2017),6.7,"Animation, Action, Drama",106 min,Hiroyuki Seshita,"Takahiro Sakurai,Kana Hanazawa,Sora Amamiya,Mamoru Miyano,","7,025",
-125,Shimmer Lake (2017),6.3,"Crime, Drama, Mystery",86 min,Oren Uziel,"Benjamin Walker,Rainn Wilson,Stephanie Sigman,John Michael Higgins,","11,694",
-126,Okja (2017),7.3,"Action, Adventure, Drama",120 min,Bong Joon Ho,"Tilda Swinton,Paul Dano,Seo-hyun Ahn,Jake Gyllenhaal,","105,053",UA
-127,To the Bone (I) (2017),6.8,Drama,107 min,Marti Noxon,"Rebekah Kennedy,Lily Collins,Dana L. Wilson,Ziah Colon,","41,176",
-128,Death Note (I) (2017),4.5,"Action, Crime, Drama",101 min,Adam Wingard,"Nat Wolff,LaKeith Stanfield,Margaret Qualley,Shea Whigham,","76,248",18
-129,First They Killed My Father (2017),7.2,"Biography, Drama, History",136 min,Angelina Jolie,"Sareum Srey Moch,Phoeung Kompheak,Sveng Socheata,Mun Kimhak,","15,644",
-130,Gerald's Game (2017),6.6,"Drama, Horror, Thriller",103 min,Mike Flanagan,"Carla Gugino,Bruce Greenwood,Chiara Aurelia,Carel Struycken,","90,037",18
-131,Our Souls at Night (2017),6.9,"Drama, Romance",103 min,Ritesh Batra,"Robert Redford,Jane Fonda,Matthias Schoenaerts,Iain Armitage,","11,370",
-132,The Meyerowitz Stories (New and Selected) (2017),6.9,"Comedy, Drama",112 min,Noah Baumbach,"Adam Sandler,Grace Van Patten,Dustin Hoffman,Elizabeth Marvel,","42,771",
-133,1922 (2017),6.3,"Crime, Drama, Horror",102 min,Zak Hilditch,"Thomas Jane,Molly Parker,Dylan Schmid,Kaitlyn Bernard,","53,286",18
-134,Wheelman (2017),6.4,"Action, Crime, Thriller",82 min,Jeremy Rush,"Frank Grillo,Caitlin Carmichael,Garret Dillahunt,Shea Whigham,","17,558",
-135,Christmas Inheritance (2017),5.7,"Comedy, Drama, Romance",104 min,Ernie Barbarash,"Eliza Taylor,Jake Lacy,Andie MacDowell,Neil Crone,","10,022",
-136,Bright (I) (2017),6.3,"Action, Fantasy, Thriller",117 min,David Ayer,"Will Smith,Joel Edgerton,Noomi Rapace,Edgar Ramírez,","168,895",18
-137,The Open House (2018),3.2,"Horror, Thriller",94 min,Matt Angel,"Suzanne Coote,Dylan Minnette,Piercey Dalton,Patricia Bethune,Sharif Atkins,","31,217",
-138,The Cloverfield Paradox (2018),5.5,"Action, Horror, Sci-Fi",102 min,Julius Onah,"Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl,John Ortiz,","95,511",PG-13
-139,Irreplaceable You (2018),6.4,"Comedy, Drama, Romance",96 min,Stephanie Laing,"Gugu Mbatha-Raw,Michiel Huisman,Steve Coogan,Timothy Simons,","8,164",
-140,Mute (II) (2018),5.4,"Mystery, Sci-Fi, Thriller",126 min,Duncan Jones,"Alexander Skarsgård,Paul Rudd,Justin Theroux,Levi Eisenblätter,","30,922",18
-141,The Outsider (I) (2018),6.3,"Action, Crime, Drama",120 min,Martin Zandvliet,"Jared Leto,Tadanobu Asano,Kippei Shîna,Shioli Kutsuna,","20,617",
-142,Paradox (II) (2018),3.9,"Fantasy, Music",73 min,Daryl Hannah,"Neil Young,Lukas Nelson,Micah Nelson,Corey McCormick,",616,
-143,O Matador (2017),6.1,"Action, Western",99 min,Marcelo Galvão,"Maria de Medeiros,Diogo Morgado,Kyle McCarley,Thaila Ayala,","2,161",
-144,Roxanne Roxanne (2017),6.2,"Biography, Drama, Music",100 min,Michael Larnell,"Chanté Adams,Nia Long,Mahershala Ali,Germar Terrell Gardner,","2,765",
-145,First Match (2018),6.4,"Drama, Sport",102 min,Olivia Newman,"Elvire Emanuelle,Yahya Abdul-Mateen II,Colman Domingo,Jharrel Jerome,","1,972",
-146,6 Balloons (2018),5.9,Drama,74 min,Marja-Lewis Ryan,"Abbi Jacobson,Dave Franco,Charlotte Carel,Madeline Carel,","3,659",
-147,Amateur (2018),5.9,"Drama, Sport",96 min,Ryan Koo,"Michael Rainey Jr.,Tekola Cornetet,Hanna Longo,Walter Anaruk,","3,665",
-148,Come Sunday (2018),6,"Biography, Drama",106 min,Joshua Marston,"Chiwetel Ejiofor,Gerard Catus,Allie McCulloch,LaKeith Stanfield,","1,980",
-149,Rimetti a noi i nostri debiti (2018),6,Drama,104 min,Antonio Morabito,"Claudio Santamaria,Marco Giallini,Jerzy Stuhr,Flonja Kodheli,","1,343",
-150,Lust Stories (2018),6.5,"Drama, Romance",120 min,Zoya Akhtar,"Dibakar Banerjee,Karan Johar,Anurag Kashyap,Radhika Apte,Bhumi Pednekar,Kiara Advani,Vicky Kaushal,","9,693",A
-151,Calibre (2018),6.8,"Drama, Thriller",101 min,Matt Palmer,"Jack Lowden,Martin McCann,Tony Curran,Ian Pirie,","22,638",
-152,Tau (2018),5.8,"Sci-Fi, Thriller",97 min,Federico D'Alessandro,"Maika Monroe,Ed Skrein,Gary Oldman,Fiston Barek,","27,074",R
-153,How It Ends (2018),5,"Action, Adventure, Drama",113 min,David M. Rosenthal,"Theo James,Kat Graham,Nancy Sorel,Nicole Ari Parker,","44,790",
-154,Extinction (2018),5.8,"Action, Drama, Sci-Fi",95 min,Ben Young,"Michael Peña,Lizzy Caplan,Amelia Crouch,Erica Tremblay,","46,787",16
-155,La femme la plus assassinée du monde (2018),5.3,"Biography, Drama, Mystery",102 min,Franck Ribière,"Anna Mouglalis,Niels Schneider,Eric Godon,André Wilms,",931,
-156,Next Gen (I) (2018),6.6,"Animation, Action, Adventure",106 min,Kevin R. Adams,"Joe Ksander,Ricardo Curtis,John Krasinski,Charlyne Yi,Jason Sudeikis,Michael Peña,","14,126",
-157,The Land of Steady Habits (2018),6.2,"Comedy, Drama",98 min,Nicole Holofcener,"Bill Camp,Elizabeth Marvel,Ben Mendelsohn,Connie Britton,","6,404",
-158,The Angel (2018),6.6,"Drama, Thriller",114 min,Ariel Vromen,"Toby Kebbell,Marwan Kenzari,Hannah Ware,Waleed Zuaiter,","11,944",
-159,Hold the Dark (2018),5.6,"Action, Drama, Thriller",125 min,Jeremy Saulnier,"Jeffrey Wright,Alexander Skarsgård,James Badge Dale,Riley Keough,","33,449",16
-160,Private Life (2018),7.2,"Comedy, Drama",123 min,Tamara Jenkins,"Kathryn Hahn,Paul Giamatti,Gabrielle Reid,Amy Russ,","16,039",R
-161,22 July (2018),6.8,"Crime, Drama, History",143 min,Paul Greengrass,"Anders Danielsen Lie,Jonas Strand Gravli,Jon Øigarden,Maria Bock,","28,296",R
-162,Apostle (2018),6.3,"Drama, Fantasy, Horror",130 min,Gareth Evans,"Dan Stevens,Richard Elfyn,Paul Higgins,Bill Milner,","43,631",
-163,The Night Comes for Us (2018),7,"Action, Thriller",121 min,Timo Tjahjanto,"Joe Taslim,Iko Uwais,Hannah Al Rashid,Julie Estelle,","21,178",18
-164,Been So Long (2018),5.4,"Drama, Musical, Romance",100 min,Tinge Krishnan,"Michaela Coel,Mya Lewis,Arinzé Kene,George MacKay,",921,
-165,The Other Side of the Wind (2018),6.8,Drama,122 min,Orson Welles,"John Huston,Oja Kodar,Peter Bogdanovich,Susan Strasberg,","6,313",R
-166,Outlaw King (2018),6.9,"Action, Biography, Drama",121 min,David Mackenzie,"Chris Pine,Stephen Dillane,Rebecca Robin,Billy Howle,","60,268",18
-167,Cam (2018),5.9,"Drama, Horror, Mystery",94 min,Daniel Goldhaber,"Madeline Brewer,Patch Darragh,Melora Walters,Devin Druid,","26,797",
-168,The Ballad of Buster Scruggs (2018),7.3,"Comedy, Drama, Musical",133 min,Ethan Coen,"Joel Coen,Tim Blake Nelson,Willie Watson,Clancy Brown,Danny McCarthy,","122,678",R
-169,Mowgli (2018),6.5,"Adventure, Drama, Fantasy",104 min,Andy Serkis,"Christian Bale,Cate Blanchett,Benedict Cumberbatch,Naomie Harris,","56,448",PG-13
-170,Roma (2018),7.7,Drama,135 min,Alfonso Cuarón,"Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,","140,443",16
-171,Bird Box (2018),6.6,"Horror, Sci-Fi",124 min,Susanne Bier,"Sandra Bullock,Trevante Rhodes,John Malkovich,Sarah Paulson,","279,690",18
-172,IO (2019),4.7,"Adventure, Drama, Sci-Fi",96 min,Jonathan Helpert,"Margaret Qualley,Anthony Mackie,Danny Huston,Tom Payne,","31,119",
-173,Soni (2018),7.1,Drama,97 min,Ivan Ayr,"Geetika Vidya Ohlyan,Saloni Batra,Vikas Shukla,Mohit Chauhan,","2,379",
-174,Polar (I) (2019),6.3,"Action, Crime, Drama",118 min,Jonas Åkerlund,"Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick,Fei Ren,","75,562",18
-175,Velvet Buzzsaw (2019),5.7,"Horror, Mystery, Thriller",113 min,Dan Gilroy,"Jake Gyllenhaal,Rene Russo,Zawe Ashton,Tom Sturridge,","54,221",R
-176,High Flying Bird (2019),6.2,"Drama, Sport",90 min,Steven Soderbergh,"André Holland,Melvin Gregg,Eddie Tavares,Farah Bala,","7,598",
-177,Firebrand (2019),5.1,Drama,116 min,Aruna Raje,"Usha Jadhav,Girish Kulkarni,Sachin Khedekar,Rajeshwari Sachdev,",242,
-178,Paris est à nous (2019),4.6,Drama,83 min,Elisabeth Vogler,"Noémie Schmidt,Grégoire Isvarine,Marie Mottet,Lou Castel,","1,254",
-179,Paddleton (2019),7.2,"Comedy, Drama",89 min,Alex Lehmann,"Christine Woods,Mark Duplass,Ray Romano,Jen Sung,","11,262",
-180,Walk,6.4,"Biography, Drama",100 min,Conor Allyn,"Spencer Locke,Missi Pyle,Bailey Chase,Alyvia Alyn Lind,","1,921",
-181,Juanita (I) (2019),5.9,Drama,90 min,Clark Johnson,"Alfre Woodard,Bonnie Johnson,Jordan Nia Elizabeth,Acoryé White,","2,092",
-182,Triple Frontier (2019),6.4,"Action, Adventure, Crime",125 min,J.C. Chandor,"Ben Affleck,Oscar Isaac,Charlie Hunnam,Garrett Hedlund,","108,047",18
-183,The Dirt (2018),7,"Biography, Comedy, Drama",107 min,Jeff Tremaine,"Douglas Booth,Iwan Rheon,Machine Gun Kelly,Daniel Webber,","39,924",
-184,The Highwaymen (2019),6.9,"Biography, Crime, Drama",132 min,John Lee Hancock,"Kevin Costner,Woody Harrelson,Kathy Bates,John Carroll Lynch,","75,273",R
-185,The Ridiculous 6 (2015),4.8,"Action, Adventure, Comedy",119 min,Frank Coraci,"Adam Sandler,Terry Crews,Jorge Garcia,Taylor Lautner,","44,542",
-186,Pee-wee's Big Holiday (2016),6.1,"Comedy, Family",90 min,John Lee,"Paul Reubens,Jordan Black,Doug Cox,Linda Porter,","7,272",
-187,Special Correspondents (2016),5.8,Comedy,101 min,Ricky Gervais,"Ricky Gervais,Eric Bana,Vera Farmiga,Kelly Macdonald,","20,725",
-188,The Do-Over (2016),5.7,"Action, Adventure, Comedy",108 min,Steven Brill,"Adam Sandler,David Spade,Paula Patton,Kathryn Hahn,","40,679",18
-189,Brahman Naman (2016),5.6,Comedy,95 min,Qaushiq Mukherjee,"Shashank Arora,Tanmay Dhanania,Chaitanya Varad,Vaishwath Shankar,","1,755",18
-190,Mascots (2016),5.7,Comedy,89 min,Christopher Guest,"Zach Woods,Wayne Wilderson,Sarah Baker,Michael Hitchcock,","6,733",
-191,True Memoirs of an International Assassin (2016),5.9,"Action, Comedy, Crime",98 min,Jeff Wadlow,"Kevin James,Kim Coates,Maurice Compte,Zulay Henao,","20,422",
-192,Take the 10 (2017),4.7,Comedy,80 min,Chester Tam,"Josh Peck,Tony Revolori,Kevin Corrigan,Chester Tam,","2,813",
-193,Girlfriend's Day (2017),5.2,"Comedy, Drama",65 min,Michael Paul Stephenson,"Bob Odenkirk,Amber Tamblyn,Stacy Keach,Alex Karpovsky,","3,465",
-194,Win It All (2017),6.2,Comedy,88 min,Joe Swanberg,"Jake Johnson,Rony Shemon,Morgan Ng,Edward Kaihatsu,","8,214",
-195,Sandy Wexler (2017),5.2,Comedy,130 min,Steven Brill,"Adam Sandler,Jennifer Hudson,Kevin James,Colin Quinn,","14,854",
-196,Small Crimes (2017),5.8,"Crime, Drama, Thriller",95 min,E.L. Katz,"Nikolaj Coster-Waldau,Robert Forster,Jacki Weaver,Molly Parker,","6,899",
-197,Handsome: A Netflix Mystery Movie (2017),5.2,"Comedy, Mystery",80 min,Jeff Garlin,"Ava Acres,Armani GreatDane,Dino Battaglia,Brent Bradshaw,","4,006",
-198,War Machine (2017),6,"Comedy, Drama, War",122 min,David Michôd,"Brad Pitt,Daniel Betts,John Magaro,Emory Cohen,","41,910",
-199,The Incredible Jessica James (2017),6.5,Comedy,85 min,Jim Strouse,"Jessica Williams,Chris O'Dowd,LaKeith Stanfield,Noël Wells,","6,403",
-200,Beasts of No Nation (2015),7.7,"Drama, War",137 min,Cary Joji Fukunaga,"Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,","73,977",
-201,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",6.1,"Action, Adventure, Drama",96 min,Woo-Ping Yuen,"Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Natasha Liu Bordizzo,","17,878",PG-13
-202,The Fundamentals of Caring (2016),7.3,"Comedy, Drama",97 min,Rob Burnett,"Craig Roberts,Paul Rudd,Selena Gomez,Alex Huff,","59,989",16
-203,Rebirth (I) (2016),5,Thriller,100 min,Karl Mueller,"Fran Kranz,Adam Goldberg,Nicky Whelan,Kat Foster,","4,443",
-204,Tallulah (2016),6.7,"Comedy, Drama, Romance",111 min,Sian Heder,"Elliot Page,Allison Janney,Tammy Blanchard,Evan Jonigkeit,","18,307",
-205,XOXO (2016),5.3,"Drama, Music",92 min,Christopher Louie,"Sarah Hyland,Graham Phillips,Brett DelBuono,Hayley Kiyoko,","6,621",
-206,ARQ (2016),6.4,"Action, Sci-Fi, Thriller",88 min,Tony Elliott,"Robbie Amell,Rachael Taylor,Shaun Benson,Gray Powell,","35,100",
-207,The Siege of Jadotville (2016),7.2,"Action, Drama, History",108 min,Richie Smyth,"Richard Lukunku,Danny Sapani,Andrew Stock,Mark Strong,","32,164",
-208,I Am the Pretty Thing That Lives in the House (2016),4.6,"Drama, Horror, Mystery",89 min,Oz Perkins,"Ruth Wilson,Paula Prentiss,Bob Balaban,Lucy Boynton,","13,046",
-209,7 años (2016),6.8,Drama,77 min,Roger Gual,"Juana Acosta,Alex Brendemühl,Paco León,Manuel Morón,","4,399",
-210,Mercy (IV) (2016),4.2,"Drama, Mystery, Thriller",90 min,Chris Sparling,"James Wolk,Tom Lipinski,Caitlin FitzGerald,Mike Donovan,","3,030",
-211,Spectral (2016),6.3,"Action, Adventure, Sci-Fi",107 min,Nic Mathieu,"James Badge Dale,Emily Mortimer,Bruce Greenwood,Max Martini,","52,560",16
-212,Barry (II) (2016),5.8,"Biography, Drama",104 min,Vikram Gandhi,"Devon Terrell,Anya Taylor-Joy,Jason Mitchell,Ellar Coltrane,","6,517",
-213,Coin Heist (2017),4.8,"Crime, Drama, Romance",97 min,Emily Hagins,"Alex Saxon,Alexis G. Zall,Sasha Pieterse,Jay Walker,","2,441",
-214,Clinical (2017),5.1,"Horror, Thriller",104 min,Alistair Legrand,"Vinessa Shaw,Kevin Rahm,India Eisley,Aaron Stanford,","6,827",
-215,iBoy (2017),6,"Action, Crime, Sci-Fi",90 min,Adam Randall,"Bill Milner,Maisie Williams,Miranda Richardson,Rory Kinnear,","20,594",18
-216,Imperial Dreams (2014),6.7,Drama,87 min,Malik Vitthal,"John Boyega,Rotimi,Glenn Plummer,De'aundre Bonds,","4,062",
-217,I Don't Feel at Home in This World Anymore,6.9,"Comedy, Crime, Drama",93 min,Macon Blair,"Melanie Lynskey,Chris Doubek,Marilyn Faith Hickey,Jared Roylance,","49,054",
-218,Burning Sands (2017),6,Drama,96 min,Gerard McMurray,"Trevor Jackson,Tosin Cole,DeRon Horton,Alfre Woodard,","2,575",
-219,Deidra & Laney Rob a Train (2017),6.1,"Comedy, Crime, Drama",92 min,Sydney Freeland,"Ashleigh Murray,Rachel Crow,Lance Gray,Danielle Nicolet,","1,625",
-220,The Most Hated Woman in America (2017),6.1,"Biography, Drama, History",91 min,Tommy O'Haver,"Melissa Leo,Brandon Mychal Smith,Juno Temple,Michael Chernus,","5,480",
-221,The Discovery (I) (2017),6.3,"Drama, Romance, Sci-Fi",102 min,Charlie McDowell,"Robert Redford,Mary Steenburgen,Brian McCarthy,Jason Segel,","29,882",
-222,Sand Castle (2017),6.3,"Action, Drama, War",113 min,Fernando Coimbra,"Nicholas Hoult,Logan Marshall-Green,Henry Cavill,Glen Powell,","19,618",16+
-223,Tramps (2016),6.5,"Comedy, Romance",82 min,Adam Leon,"Callum Turner,Grace Van Patten,Michal Vondel,Mike Birbiglia,","4,633",
-224,Blame! (2017),6.7,"Animation, Action, Drama",106 min,Hiroyuki Seshita,"Takahiro Sakurai,Kana Hanazawa,Sora Amamiya,Mamoru Miyano,","7,025",
-225,Shimmer Lake (2017),6.3,"Crime, Drama, Mystery",86 min,Oren Uziel,"Benjamin Walker,Rainn Wilson,Stephanie Sigman,John Michael Higgins,","11,694",
-226,Okja (2017),7.3,"Action, Adventure, Drama",120 min,Bong Joon Ho,"Tilda Swinton,Paul Dano,Seo-hyun Ahn,Jake Gyllenhaal,","105,053",UA
-227,To the Bone (I) (2017),6.8,Drama,107 min,Marti Noxon,"Rebekah Kennedy,Lily Collins,Dana L. Wilson,Ziah Colon,","41,176",
-228,Death Note (I) (2017),4.5,"Action, Crime, Drama",101 min,Adam Wingard,"Nat Wolff,LaKeith Stanfield,Margaret Qualley,Shea Whigham,","76,248",18
-229,First They Killed My Father (2017),7.2,"Biography, Drama, History",136 min,Angelina Jolie,"Sareum Srey Moch,Phoeung Kompheak,Sveng Socheata,Mun Kimhak,","15,644",
-230,Gerald's Game (2017),6.6,"Drama, Horror, Thriller",103 min,Mike Flanagan,"Carla Gugino,Bruce Greenwood,Chiara Aurelia,Carel Struycken,","90,037",18
-231,Our Souls at Night (2017),6.9,"Drama, Romance",103 min,Ritesh Batra,"Robert Redford,Jane Fonda,Matthias Schoenaerts,Iain Armitage,","11,370",
-232,The Meyerowitz Stories (New and Selected) (2017),6.9,"Comedy, Drama",112 min,Noah Baumbach,"Adam Sandler,Grace Van Patten,Dustin Hoffman,Elizabeth Marvel,","42,771",
-233,1922 (2017),6.3,"Crime, Drama, Horror",102 min,Zak Hilditch,"Thomas Jane,Molly Parker,Dylan Schmid,Kaitlyn Bernard,","53,286",18
-234,Wheelman (2017),6.4,"Action, Crime, Thriller",82 min,Jeremy Rush,"Frank Grillo,Caitlin Carmichael,Garret Dillahunt,Shea Whigham,","17,558",
-235,Christmas Inheritance (2017),5.7,"Comedy, Drama, Romance",104 min,Ernie Barbarash,"Eliza Taylor,Jake Lacy,Andie MacDowell,Neil Crone,","10,022",
-236,Bright (I) (2017),6.3,"Action, Fantasy, Thriller",117 min,David Ayer,"Will Smith,Joel Edgerton,Noomi Rapace,Edgar Ramírez,","168,895",18
-237,The Open House (2018),3.2,"Horror, Thriller",94 min,Matt Angel,"Suzanne Coote,Dylan Minnette,Piercey Dalton,Patricia Bethune,Sharif Atkins,","31,217",
-238,The Cloverfield Paradox (2018),5.5,"Action, Horror, Sci-Fi",102 min,Julius Onah,"Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl,John Ortiz,","95,511",PG-13
-239,Irreplaceable You (2018),6.4,"Comedy, Drama, Romance",96 min,Stephanie Laing,"Gugu Mbatha-Raw,Michiel Huisman,Steve Coogan,Timothy Simons,","8,164",
-240,Mute (II) (2018),5.4,"Mystery, Sci-Fi, Thriller",126 min,Duncan Jones,"Alexander Skarsgård,Paul Rudd,Justin Theroux,Levi Eisenblätter,","30,922",18
-241,The Outsider (I) (2018),6.3,"Action, Crime, Drama",120 min,Martin Zandvliet,"Jared Leto,Tadanobu Asano,Kippei Shîna,Shioli Kutsuna,","20,617",
-242,Paradox (II) (2018),3.9,"Fantasy, Music",73 min,Daryl Hannah,"Neil Young,Lukas Nelson,Micah Nelson,Corey McCormick,",616,
-243,O Matador (2017),6.1,"Action, Western",99 min,Marcelo Galvão,"Maria de Medeiros,Diogo Morgado,Kyle McCarley,Thaila Ayala,","2,161",
-244,Roxanne Roxanne (2017),6.2,"Biography, Drama, Music",100 min,Michael Larnell,"Chanté Adams,Nia Long,Mahershala Ali,Germar Terrell Gardner,","2,765",
-245,First Match (2018),6.4,"Drama, Sport",102 min,Olivia Newman,"Elvire Emanuelle,Yahya Abdul-Mateen II,Colman Domingo,Jharrel Jerome,","1,972",
-246,6 Balloons (2018),5.9,Drama,74 min,Marja-Lewis Ryan,"Abbi Jacobson,Dave Franco,Charlotte Carel,Madeline Carel,","3,659",
-247,Amateur (2018),5.9,"Drama, Sport",96 min,Ryan Koo,"Michael Rainey Jr.,Tekola Cornetet,Hanna Longo,Walter Anaruk,","3,665",
-248,Come Sunday (2018),6,"Biography, Drama",106 min,Joshua Marston,"Chiwetel Ejiofor,Gerard Catus,Allie McCulloch,LaKeith Stanfield,","1,980",
-249,Rimetti a noi i nostri debiti (2018),6,Drama,104 min,Antonio Morabito,"Claudio Santamaria,Marco Giallini,Jerzy Stuhr,Flonja Kodheli,","1,343",
-250,Lust Stories (2018),6.5,"Drama, Romance",120 min,Zoya Akhtar,"Dibakar Banerjee,Karan Johar,Anurag Kashyap,Radhika Apte,Bhumi Pednekar,Kiara Advani,Vicky Kaushal,","9,693",A
-251,Calibre (2018),6.8,"Drama, Thriller",101 min,Matt Palmer,"Jack Lowden,Martin McCann,Tony Curran,Ian Pirie,","22,638",
-252,Tau (2018),5.8,"Sci-Fi, Thriller",97 min,Federico D'Alessandro,"Maika Monroe,Ed Skrein,Gary Oldman,Fiston Barek,","27,074",R
-253,How It Ends (2018),5,"Action, Adventure, Drama",113 min,David M. Rosenthal,"Theo James,Kat Graham,Nancy Sorel,Nicole Ari Parker,","44,790",
-254,Extinction (2018),5.8,"Action, Drama, Sci-Fi",95 min,Ben Young,"Michael Peña,Lizzy Caplan,Amelia Crouch,Erica Tremblay,","46,787",16
-255,La femme la plus assassinée du monde (2018),5.3,"Biography, Drama, Mystery",102 min,Franck Ribière,"Anna Mouglalis,Niels Schneider,Eric Godon,André Wilms,",931,
-256,Next Gen (I) (2018),6.6,"Animation, Action, Adventure",106 min,Kevin R. Adams,"Joe Ksander,Ricardo Curtis,John Krasinski,Charlyne Yi,Jason Sudeikis,Michael Peña,","14,126",
-257,The Land of Steady Habits (2018),6.2,"Comedy, Drama",98 min,Nicole Holofcener,"Bill Camp,Elizabeth Marvel,Ben Mendelsohn,Connie Britton,","6,404",
-258,The Angel (2018),6.6,"Drama, Thriller",114 min,Ariel Vromen,"Toby Kebbell,Marwan Kenzari,Hannah Ware,Waleed Zuaiter,","11,944",
-259,Hold the Dark (2018),5.6,"Action, Drama, Thriller",125 min,Jeremy Saulnier,"Jeffrey Wright,Alexander Skarsgård,James Badge Dale,Riley Keough,","33,449",16
-260,Private Life (2018),7.2,"Comedy, Drama",123 min,Tamara Jenkins,"Kathryn Hahn,Paul Giamatti,Gabrielle Reid,Amy Russ,","16,039",R
-261,22 July (2018),6.8,"Crime, Drama, History",143 min,Paul Greengrass,"Anders Danielsen Lie,Jonas Strand Gravli,Jon Øigarden,Maria Bock,","28,296",R
-262,Apostle (2018),6.3,"Drama, Fantasy, Horror",130 min,Gareth Evans,"Dan Stevens,Richard Elfyn,Paul Higgins,Bill Milner,","43,631",
-263,The Night Comes for Us (2018),7,"Action, Thriller",121 min,Timo Tjahjanto,"Joe Taslim,Iko Uwais,Hannah Al Rashid,Julie Estelle,","21,178",18
-264,Been So Long (2018),5.4,"Drama, Musical, Romance",100 min,Tinge Krishnan,"Michaela Coel,Mya Lewis,Arinzé Kene,George MacKay,",921,
-265,The Other Side of the Wind (2018),6.8,Drama,122 min,Orson Welles,"John Huston,Oja Kodar,Peter Bogdanovich,Susan Strasberg,","6,313",R
-266,Outlaw King (2018),6.9,"Action, Biography, Drama",121 min,David Mackenzie,"Chris Pine,Stephen Dillane,Rebecca Robin,Billy Howle,","60,268",18
-267,Cam (2018),5.9,"Drama, Horror, Mystery",94 min,Daniel Goldhaber,"Madeline Brewer,Patch Darragh,Melora Walters,Devin Druid,","26,797",
-268,The Ballad of Buster Scruggs (2018),7.3,"Comedy, Drama, Musical",133 min,Ethan Coen,"Joel Coen,Tim Blake Nelson,Willie Watson,Clancy Brown,Danny McCarthy,","122,678",R
-269,Mowgli (2018),6.5,"Adventure, Drama, Fantasy",104 min,Andy Serkis,"Christian Bale,Cate Blanchett,Benedict Cumberbatch,Naomie Harris,","56,448",PG-13
-270,Roma (2018),7.7,Drama,135 min,Alfonso Cuarón,"Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,","140,443",16
-271,Bird Box (2018),6.6,"Horror, Sci-Fi",124 min,Susanne Bier,"Sandra Bullock,Trevante Rhodes,John Malkovich,Sarah Paulson,","279,690",18
-272,IO (2019),4.7,"Adventure, Drama, Sci-Fi",96 min,Jonathan Helpert,"Margaret Qualley,Anthony Mackie,Danny Huston,Tom Payne,","31,119",
-273,Soni (2018),7.1,Drama,97 min,Ivan Ayr,"Geetika Vidya Ohlyan,Saloni Batra,Vikas Shukla,Mohit Chauhan,","2,379",
-274,Polar (I) (2019),6.3,"Action, Crime, Drama",118 min,Jonas Åkerlund,"Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick,Fei Ren,","75,562",18
-275,Velvet Buzzsaw (2019),5.7,"Horror, Mystery, Thriller",113 min,Dan Gilroy,"Jake Gyllenhaal,Rene Russo,Zawe Ashton,Tom Sturridge,","54,221",R
-276,High Flying Bird (2019),6.2,"Drama, Sport",90 min,Steven Soderbergh,"André Holland,Melvin Gregg,Eddie Tavares,Farah Bala,","7,598",
-277,Firebrand (2019),5.1,Drama,116 min,Aruna Raje,"Usha Jadhav,Girish Kulkarni,Sachin Khedekar,Rajeshwari Sachdev,",242,
-278,Paris est à nous (2019),4.6,Drama,83 min,Elisabeth Vogler,"Noémie Schmidt,Grégoire Isvarine,Marie Mottet,Lou Castel,","1,254",
-279,Paddleton (2019),7.2,"Comedy, Drama",89 min,Alex Lehmann,"Christine Woods,Mark Duplass,Ray Romano,Jen Sung,","11,262",
-280,Walk,6.4,"Biography, Drama",100 min,Conor Allyn,"Spencer Locke,Missi Pyle,Bailey Chase,Alyvia Alyn Lind,","1,921",
-281,Juanita (I) (2019),5.9,Drama,90 min,Clark Johnson,"Alfre Woodard,Bonnie Johnson,Jordan Nia Elizabeth,Acoryé White,","2,092",
-282,Triple Frontier (2019),6.4,"Action, Adventure, Crime",125 min,J.C. Chandor,"Ben Affleck,Oscar Isaac,Charlie Hunnam,Garrett Hedlund,","108,047",18
-283,The Dirt (2018),7,"Biography, Comedy, Drama",107 min,Jeff Tremaine,"Douglas Booth,Iwan Rheon,Machine Gun Kelly,Daniel Webber,","39,924",
-284,The Highwaymen (2019),6.9,"Biography, Crime, Drama",132 min,John Lee Hancock,"Kevin Costner,Woody Harrelson,Kathy Bates,John Carroll Lynch,","75,273",R
-285,The Ridiculous 6 (2015),4.8,"Action, Adventure, Comedy",119 min,Frank Coraci,"Adam Sandler,Terry Crews,Jorge Garcia,Taylor Lautner,","44,542",
-286,Pee-wee's Big Holiday (2016),6.1,"Comedy, Family",90 min,John Lee,"Paul Reubens,Jordan Black,Doug Cox,Linda Porter,","7,272",
-287,Special Correspondents (2016),5.8,Comedy,101 min,Ricky Gervais,"Ricky Gervais,Eric Bana,Vera Farmiga,Kelly Macdonald,","20,725",
-288,The Do-Over (2016),5.7,"Action, Adventure, Comedy",108 min,Steven Brill,"Adam Sandler,David Spade,Paula Patton,Kathryn Hahn,","40,679",18
-289,Brahman Naman (2016),5.6,Comedy,95 min,Qaushiq Mukherjee,"Shashank Arora,Tanmay Dhanania,Chaitanya Varad,Vaishwath Shankar,","1,755",18
-290,Mascots (2016),5.7,Comedy,89 min,Christopher Guest,"Zach Woods,Wayne Wilderson,Sarah Baker,Michael Hitchcock,","6,733",
-291,True Memoirs of an International Assassin (2016),5.9,"Action, Comedy, Crime",98 min,Jeff Wadlow,"Kevin James,Kim Coates,Maurice Compte,Zulay Henao,","20,422",
-292,Take the 10 (2017),4.7,Comedy,80 min,Chester Tam,"Josh Peck,Tony Revolori,Kevin Corrigan,Chester Tam,","2,813",
-293,Girlfriend's Day (2017),5.2,"Comedy, Drama",65 min,Michael Paul Stephenson,"Bob Odenkirk,Amber Tamblyn,Stacy Keach,Alex Karpovsky,","3,465",
-294,Win It All (2017),6.2,Comedy,88 min,Joe Swanberg,"Jake Johnson,Rony Shemon,Morgan Ng,Edward Kaihatsu,","8,214",
-295,Sandy Wexler (2017),5.2,Comedy,130 min,Steven Brill,"Adam Sandler,Jennifer Hudson,Kevin James,Colin Quinn,","14,854",
-296,Small Crimes (2017),5.8,"Crime, Drama, Thriller",95 min,E.L. Katz,"Nikolaj Coster-Waldau,Robert Forster,Jacki Weaver,Molly Parker,","6,899",
-297,Handsome: A Netflix Mystery Movie (2017),5.2,"Comedy, Mystery",80 min,Jeff Garlin,"Ava Acres,Armani GreatDane,Dino Battaglia,Brent Bradshaw,","4,006",
-298,War Machine (2017),6,"Comedy, Drama, War",122 min,David Michôd,"Brad Pitt,Daniel Betts,John Magaro,Emory Cohen,","41,910",
-299,The Incredible Jessica James (2017),6.5,Comedy,85 min,Jim Strouse,"Jessica Williams,Chris O'Dowd,LaKeith Stanfield,Noël Wells,","6,403",
-300,Beasts of No Nation (2015),7.7,"Drama, War",137 min,Cary Joji Fukunaga,"Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,","73,977",
-301,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",6.1,"Action, Adventure, Drama",96 min,Woo-Ping Yuen,"Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Natasha Liu Bordizzo,","17,878",PG-13
-302,The Fundamentals of Caring (2016),7.3,"Comedy, Drama",97 min,Rob Burnett,"Craig Roberts,Paul Rudd,Selena Gomez,Alex Huff,","59,989",16
-303,Rebirth (I) (2016),5,Thriller,100 min,Karl Mueller,"Fran Kranz,Adam Goldberg,Nicky Whelan,Kat Foster,","4,443",
-304,Tallulah (2016),6.7,"Comedy, Drama, Romance",111 min,Sian Heder,"Elliot Page,Allison Janney,Tammy Blanchard,Evan Jonigkeit,","18,307",
-305,XOXO (2016),5.3,"Drama, Music",92 min,Christopher Louie,"Sarah Hyland,Graham Phillips,Brett DelBuono,Hayley Kiyoko,","6,621",
-306,ARQ (2016),6.4,"Action, Sci-Fi, Thriller",88 min,Tony Elliott,"Robbie Amell,Rachael Taylor,Shaun Benson,Gray Powell,","35,100",
-307,The Siege of Jadotville (2016),7.2,"Action, Drama, History",108 min,Richie Smyth,"Richard Lukunku,Danny Sapani,Andrew Stock,Mark Strong,","32,164",
-308,I Am the Pretty Thing That Lives in the House (2016),4.6,"Drama, Horror, Mystery",89 min,Oz Perkins,"Ruth Wilson,Paula Prentiss,Bob Balaban,Lucy Boynton,","13,046",
-309,7 años (2016),6.8,Drama,77 min,Roger Gual,"Juana Acosta,Alex Brendemühl,Paco León,Manuel Morón,","4,399",
-310,Mercy (IV) (2016),4.2,"Drama, Mystery, Thriller",90 min,Chris Sparling,"James Wolk,Tom Lipinski,Caitlin FitzGerald,Mike Donovan,","3,030",
-311,Spectral (2016),6.3,"Action, Adventure, Sci-Fi",107 min,Nic Mathieu,"James Badge Dale,Emily Mortimer,Bruce Greenwood,Max Martini,","52,560",16
-312,Barry (II) (2016),5.8,"Biography, Drama",104 min,Vikram Gandhi,"Devon Terrell,Anya Taylor-Joy,Jason Mitchell,Ellar Coltrane,","6,517",
-313,Coin Heist (2017),4.8,"Crime, Drama, Romance",97 min,Emily Hagins,"Alex Saxon,Alexis G. Zall,Sasha Pieterse,Jay Walker,","2,441",
-314,Clinical (2017),5.1,"Horror, Thriller",104 min,Alistair Legrand,"Vinessa Shaw,Kevin Rahm,India Eisley,Aaron Stanford,","6,827",
-315,iBoy (2017),6,"Action, Crime, Sci-Fi",90 min,Adam Randall,"Bill Milner,Maisie Williams,Miranda Richardson,Rory Kinnear,","20,594",18
-316,Imperial Dreams (2014),6.7,Drama,87 min,Malik Vitthal,"John Boyega,Rotimi,Glenn Plummer,De'aundre Bonds,","4,062",
-317,I Don't Feel at Home in This World Anymore,6.9,"Comedy, Crime, Drama",93 min,Macon Blair,"Melanie Lynskey,Chris Doubek,Marilyn Faith Hickey,Jared Roylance,","49,054",
-318,Burning Sands (2017),6,Drama,96 min,Gerard McMurray,"Trevor Jackson,Tosin Cole,DeRon Horton,Alfre Woodard,","2,575",
-319,Deidra & Laney Rob a Train (2017),6.1,"Comedy, Crime, Drama",92 min,Sydney Freeland,"Ashleigh Murray,Rachel Crow,Lance Gray,Danielle Nicolet,","1,625",
-320,The Most Hated Woman in America (2017),6.1,"Biography, Drama, History",91 min,Tommy O'Haver,"Melissa Leo,Brandon Mychal Smith,Juno Temple,Michael Chernus,","5,480",
-321,The Discovery (I) (2017),6.3,"Drama, Romance, Sci-Fi",102 min,Charlie McDowell,"Robert Redford,Mary Steenburgen,Brian McCarthy,Jason Segel,","29,882",
-322,Sand Castle (2017),6.3,"Action, Drama, War",113 min,Fernando Coimbra,"Nicholas Hoult,Logan Marshall-Green,Henry Cavill,Glen Powell,","19,618",16+
-323,Tramps (2016),6.5,"Comedy, Romance",82 min,Adam Leon,"Callum Turner,Grace Van Patten,Michal Vondel,Mike Birbiglia,","4,633",
-324,Blame! (2017),6.7,"Animation, Action, Drama",106 min,Hiroyuki Seshita,"Takahiro Sakurai,Kana Hanazawa,Sora Amamiya,Mamoru Miyano,","7,025",
-325,Shimmer Lake (2017),6.3,"Crime, Drama, Mystery",86 min,Oren Uziel,"Benjamin Walker,Rainn Wilson,Stephanie Sigman,John Michael Higgins,","11,694",
-326,Okja (2017),7.3,"Action, Adventure, Drama",120 min,Bong Joon Ho,"Tilda Swinton,Paul Dano,Seo-hyun Ahn,Jake Gyllenhaal,","105,053",UA
-327,To the Bone (I) (2017),6.8,Drama,107 min,Marti Noxon,"Rebekah Kennedy,Lily Collins,Dana L. Wilson,Ziah Colon,","41,176",
-328,Death Note (I) (2017),4.5,"Action, Crime, Drama",101 min,Adam Wingard,"Nat Wolff,LaKeith Stanfield,Margaret Qualley,Shea Whigham,","76,248",18
-329,First They Killed My Father (2017),7.2,"Biography, Drama, History",136 min,Angelina Jolie,"Sareum Srey Moch,Phoeung Kompheak,Sveng Socheata,Mun Kimhak,","15,644",
-330,Gerald's Game (2017),6.6,"Drama, Horror, Thriller",103 min,Mike Flanagan,"Carla Gugino,Bruce Greenwood,Chiara Aurelia,Carel Struycken,","90,037",18
-331,Our Souls at Night (2017),6.9,"Drama, Romance",103 min,Ritesh Batra,"Robert Redford,Jane Fonda,Matthias Schoenaerts,Iain Armitage,","11,370",
-332,The Meyerowitz Stories (New and Selected) (2017),6.9,"Comedy, Drama",112 min,Noah Baumbach,"Adam Sandler,Grace Van Patten,Dustin Hoffman,Elizabeth Marvel,","42,771",
-333,1922 (2017),6.3,"Crime, Drama, Horror",102 min,Zak Hilditch,"Thomas Jane,Molly Parker,Dylan Schmid,Kaitlyn Bernard,","53,286",18
-334,Wheelman (2017),6.4,"Action, Crime, Thriller",82 min,Jeremy Rush,"Frank Grillo,Caitlin Carmichael,Garret Dillahunt,Shea Whigham,","17,558",
-335,Christmas Inheritance (2017),5.7,"Comedy, Drama, Romance",104 min,Ernie Barbarash,"Eliza Taylor,Jake Lacy,Andie MacDowell,Neil Crone,","10,022",
-336,Bright (I) (2017),6.3,"Action, Fantasy, Thriller",117 min,David Ayer,"Will Smith,Joel Edgerton,Noomi Rapace,Edgar Ramírez,","168,895",18
-337,The Open House (2018),3.2,"Horror, Thriller",94 min,Matt Angel,"Suzanne Coote,Dylan Minnette,Piercey Dalton,Patricia Bethune,Sharif Atkins,","31,217",
-338,The Cloverfield Paradox (2018),5.5,"Action, Horror, Sci-Fi",102 min,Julius Onah,"Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl,John Ortiz,","95,511",PG-13
-339,Irreplaceable You (2018),6.4,"Comedy, Drama, Romance",96 min,Stephanie Laing,"Gugu Mbatha-Raw,Michiel Huisman,Steve Coogan,Timothy Simons,","8,164",
-340,Mute (II) (2018),5.4,"Mystery, Sci-Fi, Thriller",126 min,Duncan Jones,"Alexander Skarsgård,Paul Rudd,Justin Theroux,Levi Eisenblätter,","30,922",18
-341,The Outsider (I) (2018),6.3,"Action, Crime, Drama",120 min,Martin Zandvliet,"Jared Leto,Tadanobu Asano,Kippei Shîna,Shioli Kutsuna,","20,617",
-342,Paradox (II) (2018),3.9,"Fantasy, Music",73 min,Daryl Hannah,"Neil Young,Lukas Nelson,Micah Nelson,Corey McCormick,",616,
-343,O Matador (2017),6.1,"Action, Western",99 min,Marcelo Galvão,"Maria de Medeiros,Diogo Morgado,Kyle McCarley,Thaila Ayala,","2,161",
-344,Roxanne Roxanne (2017),6.2,"Biography, Drama, Music",100 min,Michael Larnell,"Chanté Adams,Nia Long,Mahershala Ali,Germar Terrell Gardner,","2,765",
-345,First Match (2018),6.4,"Drama, Sport",102 min,Olivia Newman,"Elvire Emanuelle,Yahya Abdul-Mateen II,Colman Domingo,Jharrel Jerome,","1,972",
-346,6 Balloons (2018),5.9,Drama,74 min,Marja-Lewis Ryan,"Abbi Jacobson,Dave Franco,Charlotte Carel,Madeline Carel,","3,659",
-347,Amateur (2018),5.9,"Drama, Sport",96 min,Ryan Koo,"Michael Rainey Jr.,Tekola Cornetet,Hanna Longo,Walter Anaruk,","3,665",
-348,Come Sunday (2018),6,"Biography, Drama",106 min,Joshua Marston,"Chiwetel Ejiofor,Gerard Catus,Allie McCulloch,LaKeith Stanfield,","1,980",
-349,Rimetti a noi i nostri debiti (2018),6,Drama,104 min,Antonio Morabito,"Claudio Santamaria,Marco Giallini,Jerzy Stuhr,Flonja Kodheli,","1,343",
-350,Lust Stories (2018),6.5,"Drama, Romance",120 min,Zoya Akhtar,"Dibakar Banerjee,Karan Johar,Anurag Kashyap,Radhika Apte,Bhumi Pednekar,Kiara Advani,Vicky Kaushal,","9,693",A
-351,Calibre (2018),6.8,"Drama, Thriller",101 min,Matt Palmer,"Jack Lowden,Martin McCann,Tony Curran,Ian Pirie,","22,638",
-352,Tau (2018),5.8,"Sci-Fi, Thriller",97 min,Federico D'Alessandro,"Maika Monroe,Ed Skrein,Gary Oldman,Fiston Barek,","27,074",R
-353,How It Ends (2018),5,"Action, Adventure, Drama",113 min,David M. Rosenthal,"Theo James,Kat Graham,Nancy Sorel,Nicole Ari Parker,","44,790",
-354,Extinction (2018),5.8,"Action, Drama, Sci-Fi",95 min,Ben Young,"Michael Peña,Lizzy Caplan,Amelia Crouch,Erica Tremblay,","46,787",16
-355,La femme la plus assassinée du monde (2018),5.3,"Biography, Drama, Mystery",102 min,Franck Ribière,"Anna Mouglalis,Niels Schneider,Eric Godon,André Wilms,",931,
-356,Next Gen (I) (2018),6.6,"Animation, Action, Adventure",106 min,Kevin R. Adams,"Joe Ksander,Ricardo Curtis,John Krasinski,Charlyne Yi,Jason Sudeikis,Michael Peña,","14,126",
-357,The Land of Steady Habits (2018),6.2,"Comedy, Drama",98 min,Nicole Holofcener,"Bill Camp,Elizabeth Marvel,Ben Mendelsohn,Connie Britton,","6,404",
-358,The Angel (2018),6.6,"Drama, Thriller",114 min,Ariel Vromen,"Toby Kebbell,Marwan Kenzari,Hannah Ware,Waleed Zuaiter,","11,944",
-359,Hold the Dark (2018),5.6,"Action, Drama, Thriller",125 min,Jeremy Saulnier,"Jeffrey Wright,Alexander Skarsgård,James Badge Dale,Riley Keough,","33,449",16
-360,Private Life (2018),7.2,"Comedy, Drama",123 min,Tamara Jenkins,"Kathryn Hahn,Paul Giamatti,Gabrielle Reid,Amy Russ,","16,039",R
-361,22 July (2018),6.8,"Crime, Drama, History",143 min,Paul Greengrass,"Anders Danielsen Lie,Jonas Strand Gravli,Jon Øigarden,Maria Bock,","28,296",R
-362,Apostle (2018),6.3,"Drama, Fantasy, Horror",130 min,Gareth Evans,"Dan Stevens,Richard Elfyn,Paul Higgins,Bill Milner,","43,631",
-363,The Night Comes for Us (2018),7,"Action, Thriller",121 min,Timo Tjahjanto,"Joe Taslim,Iko Uwais,Hannah Al Rashid,Julie Estelle,","21,178",18
-364,Been So Long (2018),5.4,"Drama, Musical, Romance",100 min,Tinge Krishnan,"Michaela Coel,Mya Lewis,Arinzé Kene,George MacKay,",921,
-365,The Other Side of the Wind (2018),6.8,Drama,122 min,Orson Welles,"John Huston,Oja Kodar,Peter Bogdanovich,Susan Strasberg,","6,313",R
-366,Outlaw King (2018),6.9,"Action, Biography, Drama",121 min,David Mackenzie,"Chris Pine,Stephen Dillane,Rebecca Robin,Billy Howle,","60,268",18
-367,Cam (2018),5.9,"Drama, Horror, Mystery",94 min,Daniel Goldhaber,"Madeline Brewer,Patch Darragh,Melora Walters,Devin Druid,","26,797",
-368,The Ballad of Buster Scruggs (2018),7.3,"Comedy, Drama, Musical",133 min,Ethan Coen,"Joel Coen,Tim Blake Nelson,Willie Watson,Clancy Brown,Danny McCarthy,","122,678",R
-369,Mowgli (2018),6.5,"Adventure, Drama, Fantasy",104 min,Andy Serkis,"Christian Bale,Cate Blanchett,Benedict Cumberbatch,Naomie Harris,","56,448",PG-13
-370,Roma (2018),7.7,Drama,135 min,Alfonso Cuarón,"Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,","140,443",16
-371,Bird Box (2018),6.6,"Horror, Sci-Fi",124 min,Susanne Bier,"Sandra Bullock,Trevante Rhodes,John Malkovich,Sarah Paulson,","279,690",18
-372,IO (2019),4.7,"Adventure, Drama, Sci-Fi",96 min,Jonathan Helpert,"Margaret Qualley,Anthony Mackie,Danny Huston,Tom Payne,","31,119",
-373,Soni (2018),7.1,Drama,97 min,Ivan Ayr,"Geetika Vidya Ohlyan,Saloni Batra,Vikas Shukla,Mohit Chauhan,","2,379",
-374,Polar (I) (2019),6.3,"Action, Crime, Drama",118 min,Jonas Åkerlund,"Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick,Fei Ren,","75,562",18
-375,Velvet Buzzsaw (2019),5.7,"Horror, Mystery, Thriller",113 min,Dan Gilroy,"Jake Gyllenhaal,Rene Russo,Zawe Ashton,Tom Sturridge,","54,221",R
-376,High Flying Bird (2019),6.2,"Drama, Sport",90 min,Steven Soderbergh,"André Holland,Melvin Gregg,Eddie Tavares,Farah Bala,","7,598",
-377,Firebrand (2019),5.1,Drama,116 min,Aruna Raje,"Usha Jadhav,Girish Kulkarni,Sachin Khedekar,Rajeshwari Sachdev,",242,
-378,Paris est à nous (2019),4.6,Drama,83 min,Elisabeth Vogler,"Noémie Schmidt,Grégoire Isvarine,Marie Mottet,Lou Castel,","1,254",
-379,Paddleton (2019),7.2,"Comedy, Drama",89 min,Alex Lehmann,"Christine Woods,Mark Duplass,Ray Romano,Jen Sung,","11,262",
-380,Walk,6.4,"Biography, Drama",100 min,Conor Allyn,"Spencer Locke,Missi Pyle,Bailey Chase,Alyvia Alyn Lind,","1,921",
-381,Juanita (I) (2019),5.9,Drama,90 min,Clark Johnson,"Alfre Woodard,Bonnie Johnson,Jordan Nia Elizabeth,Acoryé White,","2,092",
-382,Triple Frontier (2019),6.4,"Action, Adventure, Crime",125 min,J.C. Chandor,"Ben Affleck,Oscar Isaac,Charlie Hunnam,Garrett Hedlund,","108,047",18
-383,The Dirt (2018),7,"Biography, Comedy, Drama",107 min,Jeff Tremaine,"Douglas Booth,Iwan Rheon,Machine Gun Kelly,Daniel Webber,","39,924",
-384,The Highwaymen (2019),6.9,"Biography, Crime, Drama",132 min,John Lee Hancock,"Kevin Costner,Woody Harrelson,Kathy Bates,John Carroll Lynch,","75,273",R
-385,The Ridiculous 6 (2015),4.8,"Action, Adventure, Comedy",119 min,Frank Coraci,"Adam Sandler,Terry Crews,Jorge Garcia,Taylor Lautner,","44,542",
-386,Pee-wee's Big Holiday (2016),6.1,"Comedy, Family",90 min,John Lee,"Paul Reubens,Jordan Black,Doug Cox,Linda Porter,","7,272",
-387,Special Correspondents (2016),5.8,Comedy,101 min,Ricky Gervais,"Ricky Gervais,Eric Bana,Vera Farmiga,Kelly Macdonald,","20,725",
-388,The Do-Over (2016),5.7,"Action, Adventure, Comedy",108 min,Steven Brill,"Adam Sandler,David Spade,Paula Patton,Kathryn Hahn,","40,679",18
-389,Brahman Naman (2016),5.6,Comedy,95 min,Qaushiq Mukherjee,"Shashank Arora,Tanmay Dhanania,Chaitanya Varad,Vaishwath Shankar,","1,755",18
-390,Mascots (2016),5.7,Comedy,89 min,Christopher Guest,"Zach Woods,Wayne Wilderson,Sarah Baker,Michael Hitchcock,","6,733",
-391,True Memoirs of an International Assassin (2016),5.9,"Action, Comedy, Crime",98 min,Jeff Wadlow,"Kevin James,Kim Coates,Maurice Compte,Zulay Henao,","20,422",
-392,Take the 10 (2017),4.7,Comedy,80 min,Chester Tam,"Josh Peck,Tony Revolori,Kevin Corrigan,Chester Tam,","2,813",
-393,Girlfriend's Day (2017),5.2,"Comedy, Drama",65 min,Michael Paul Stephenson,"Bob Odenkirk,Amber Tamblyn,Stacy Keach,Alex Karpovsky,","3,465",
-394,Win It All (2017),6.2,Comedy,88 min,Joe Swanberg,"Jake Johnson,Rony Shemon,Morgan Ng,Edward Kaihatsu,","8,214",
-395,Sandy Wexler (2017),5.2,Comedy,130 min,Steven Brill,"Adam Sandler,Jennifer Hudson,Kevin James,Colin Quinn,","14,854",
-396,Small Crimes (2017),5.8,"Crime, Drama, Thriller",95 min,E.L. Katz,"Nikolaj Coster-Waldau,Robert Forster,Jacki Weaver,Molly Parker,","6,899",
-397,Handsome: A Netflix Mystery Movie (2017),5.2,"Comedy, Mystery",80 min,Jeff Garlin,"Ava Acres,Armani GreatDane,Dino Battaglia,Brent Bradshaw,","4,006",
-398,War Machine (2017),6,"Comedy, Drama, War",122 min,David Michôd,"Brad Pitt,Daniel Betts,John Magaro,Emory Cohen,","41,910",
-399,The Incredible Jessica James (2017),6.5,Comedy,85 min,Jim Strouse,"Jessica Williams,Chris O'Dowd,LaKeith Stanfield,Noël Wells,","6,403",
+98,War Machine (2017),6,"Comedy, Drama, War",122 min,David Michôd,"Brad Pitt,Daniel Betts,John Magaro,Emory Cohen,","41,914",
+99,The Incredible Jessica James (2017),6.5,Comedy,85 min,Jim Strouse,"Jessica Williams,Chris O'Dowd,LaKeith Stanfield,Noël Wells,","6,404",
+100,Naked (1993),7.8,"Comedy, Drama",132 min,Mike Leigh,"David Thewlis,Lesley Sharp,Katrin Cartlidge,Greg Cruttwell,","34,655",
+101,Little Evil (2017),5.7,"Comedy, Horror",94 min,Eli Craig,"Evangeline Lilly,Owen Atlas,Adam Scott,Marcus Terrell Smith,","18,962",
+102,#Realityhigh (2017),5.2,"Comedy, Drama, Romance",99 min,Fernando Lebrija,"Nesta Cooper,Keith Powers,Alicia Sanz,Jake Borelli,","5,631",
+103,Fe de etarras (2017),5.6,Comedy,89 min,Borja Cobeaga,"Javier Cámara,Julián López,Miren Ibarguren,Gorka Otxoa,","2,644",
+104,The Babysitter (I) (2017),6.3,"Comedy, Horror",85 min,McG,"Judah Lewis,Samara Weaving,Robbie Amell,Hana Mae Lee,","73,515",18
+105,A Christmas Prince (2017),5.8,"Comedy, Family, Romance",92 min,Alex Zamm,"Rose McIver,Ben Lamb,Alice Krige,Honor Kneafsey,","17,079",7
+106,El Camino Christmas (2017),5.7,"Comedy, Crime, Western",89 min,David E. Talbert,"Dax Shepard,Kurtwood Smith,Luke Grimes,Emilio Rivera,","7,535",
+107,The Polka King (2017),5.9,"Biography, Comedy, Drama",95 min,Maya Forbes,"Jack Black,Jenny Slate,Jason Schwartzman,Jacki Weaver,","9,136",
+108,Step Sisters (2018),5.4,Comedy,108 min,Charles Stone III,"Megalyn Echikunwoke,Eden Sher,Lyndon Smith,Gage Golightly,","4,046",PG-13
+109,Blockbuster (2018),5.5,Comedy,85 min,July Hygreck,"Syrus Shahidi,Charlotte Gabris,Tom Hygreck,Gunther Love,",435,
+110,A Futile and Stupid Gesture (2018),6.8,"Biography, Comedy",101 min,David Wain,"Frank Gingerich,Morgan Gingerich,Annette O'Toole,Harry Groener,","13,976",
+111,When We First Met (2018),6.4,"Comedy, Fantasy, Romance",97 min,Ari Sandel,"Adam Devine,Alexandra Daddario,Shelley Hennig,Andrew Bachelor,","42,478",16
+112,Love Per Square Foot (2018),7.2,"Comedy, Romance",133 min,Anand Tiwari,"Vicky Kaushal,Angira Dhar,Alankrita Sahai,Raghuvir Yadav,","7,309",UA
+113,Benji (I) (2018),6.3,"Crime, Drama, Family",87 min,Brandon Camp,"Gabriel Bateman,Darby Camp,Kiele Sanchez,Gralen Bryant Banks,","3,871",
+114,"Game Over, Man! (2018)",5.4,"Action, Comedy",101 min,Kyle Newacheck,"Adam Devine,Anders Holm,Blake Anderson,Chloe Bridges,","26,319",
+115,Happy Anniversary (I) (2018),5.7,Comedy,78 min,Jared Stern,"Noël Wells,Ben Schwartz,Rahul Kohli,Joe Pantoliano,","3,811",
+116,Je ne suis pas un homme facile (2018),6.3,Comedy,98 min,Eléonore Pourriat,"Vincent Elbaz,Marie-Sophie Ferdane,Pierre Benezit,Blanche Gardin,","12,356",
+117,Dude (2018),5.1,"Comedy, Drama",97 min,Olivia Milch,"Lucy Hale,Kathryn Prescott,Alexandra Shipp,Awkwafina,","6,306",
+118,Candy Jar (2018),5.8,Comedy,92 min,Ben Shelton,"Jacob Latimore,Sami Gayle,Tom Bergeron,Helen Hunt,","4,366",
+119,The Week Of (2018),5.2,Comedy,116 min,Robert Smigel,"Adam Sandler,Chris Rock,Steve Buscemi,Rachel Dratch,","18,898",
+120,The Kissing Booth (2018),6,"Comedy, Romance",105 min,Vince Marcello,"Joey King,Jacob Elordi,Joel Courtney,Megan du Plessis,","66,418",16
+121,Ibiza (2018),5.2,"Comedy, Romance",94 min,Alex Richanbach,"Gwen Elizabeth Duchon,Gillian Jacobs,Michaela Watkins,Phoebe Robinson,","15,647",
+122,Alex Strangelove (2018),6.3,"Comedy, Drama, Romance",99 min,Craig Johnson,"Michael Abela,Daniel Doheny,Brendan Archer,Gianna Jean,","14,952",Not Rated
+123,Set It Up (2018),6.5,"Comedy, Romance",105 min,Claire Scanlon,"Zoey Deutch,Glen Powell,Lucy Liu,Taye Diggs,","42,838",
+124,Les goûts et les couleurs (2018),5.3,"Comedy, Drama",95 min,Myriam Aziza,"Sarah Stern,Jean-Christophe Folly,Julia Piaton,Catherine Jacob,","1,435",
+125,The Legacy of a Whitetail Deer Hunter (2018),5.5,"Comedy, Drama",83 min,Jody Hill,"Josh Brolin,Danny McBride,Montana Jordan,Scoot McNairy,","3,489",
+126,Father of the Year (2018),5.2,Comedy,94 min,Tyler Spindel,"David Spade,Nat Faxon,Joey Bragg,Matt Shively,","10,046",
+127,Like Father (2018),6.1,"Comedy, Drama",98 min,Lauren Miller Rogen,"Kristen Bell,Danielle Davenport,Kimiko Glenn,Wynter Kullman,","19,070",
+128,The Package (II) (2018),5.5,"Comedy, Thriller",94 min,Jake Szymanski,"Daniel Doheny,Geraldine Viswanathan,Sadie Calvano,Luke Spencer Roberts,","14,218",
+129,To All the Boys I've Loved Before (2018),7.1,"Comedy, Drama, Romance",99 min,Susan Johnson,"Lana Condor,Noah Centineo,Janel Parrish,Anna Cathcart,","86,872",13
+130,The After Party (I) (2018),5.8,"Comedy, Music",120 min,Ian Edelman,"Harrison Holzer,Kyle,Jordan Rock,Robbie Dema,","3,702",
+131,Sierra Burgess Is a Loser (2018),5.8,"Comedy, Drama, Romance",105 min,Ian Samuels,"Shannon Purser,Kristine Froseth,RJ Cyler,Noah Centineo,","34,865",PG-13
+132,Nappily Ever After (2018),6.4,"Comedy, Drama, Romance",98 min,Haifaa Al-Mansour,"Sanaa Lathan,Ricky Whittle,Lyriq Bent,Lynn Whitfield,","8,064",
+133,The Holiday Calendar (2018),5.7,"Drama, Fantasy, Romance",95 min,Bradley Walsh,"Kat Graham,Quincy Brown,Ethan Peck,Ron Cephas Jones,","8,621",
+134,The Princess Switch (2018),6,"Comedy, Drama, Family",101 min,Mike Rohl,"Vanessa Hudgens,Sam Palladio,Nick Sagar,Alexa Adeosun,","22,828",
+135,The Christmas Chronicles (2018),7,"Adventure, Comedy, Family",104 min,Clay Kaytis,"Kurt Russell,Darby Camp,Judah Lewis,Oliver Hudson,","61,883",7
+136,A Christmas Prince: The Royal Wedding (2018),5.3,"Drama, Romance",92 min,John Schultz,"Rose McIver,Ben Lamb,Alice Krige,Honor Kneafsey,","9,220",
+137,Rajma Chawal (2018),5.8,"Comedy, Drama, Family",117 min,Leena Yadav,"Amyra Dastur,Rishi Kapoor,Mukesh Chhabra,Aparshakti Khurana,","1,644",16
+138,Natale a 5 stelle (2018),4.5,Comedy,92 min,Marco Risi,"Massimo Ghini,Ricky Memphis,Martina Stella,Paola Minaccioni,",621,
+139,Lionheart (2018),5.7,Comedy,95 min,Genevieve Nnaji,"Genevieve Nnaji,Nkem Owoh,Pete Edochie,Onyeka Onwenu,","1,300",
+140,The Last Laugh (I) (2019),5.6,Comedy,98 min,Greg Pritikin,"Chevy Chase,Richard Dreyfuss,Andie MacDowell,Kate Micucci,","5,018",
+141,Someone Great (2019),6.2,"Comedy, Romance",92 min,Jennifer Kaytin Robinson,"Gina Rodriguez,LaKeith Stanfield,Brittany Snow,DeWanda Wise,","17,902",R
+142,Otherhood (2019),6.1,Comedy,100 min,Cindy Chupack,"Angela Bassett,Patricia Arquette,Felicity Huffman,Jake Hoffman,","9,345",R
+143,Wine Country (2019),5.4,"Adventure, Comedy, Drama",103 min,Amy Poehler,"Amy Poehler,Rachel Dratch,Ana Gasteyer,Maya Rudolph,","18,793",R
+144,A Very Murray Christmas (2015 TV Special),5.5,"Comedy, Music, Musical",56 min,Sofia Coppola,"Bill Murray,Paul Shaffer,Michael Cera,George Clooney,","14,315",
+145,Justin Timberlake + the Tennessee Kids (2016),7.8,"Documentary, Music",90 min,Jonathan Demme,"Aaron Camper,Justin Timberlake,Dontae Winslow,","1,890",
+146,"Michael Bolton's Big, Sexy Valentine's Day Special (2017 TV Special)",6.7,"Comedy, Music, Musical",54 min,Scott Aukerman,"Akiva Schaffer,Michael Bolton,Sarah Shahi,Adam Scott,Matthew Kimbrough,","1,882",
+147,Rodney King (2017 TV Special),5.7,"Comedy, Drama",52 min,Spike Lee,"Roger Guenveur Smith,",513,
+148,Barbra: The Music,7.5,Music,110 min,Jim Gable,"Barbra Streisand,Barbra Streisand,Stephanie 'Stevvi' Alexander,Alec Baldwin,James Brolin,",382,
+149,Derren Brown: Sacrifice (2018 TV Special),7.1,Reality-TV,49 min,Megan Affonso,"Derren Brown,Bob Cable,Christopher Crabinha,","1,632",
+150,Loudon Wainwright III: Surviving Twin (2018),7.2,"Documentary, Music",91 min,Christopher Guest,"Loudon Wainwright III,",80,
+151,Springsteen on Broadway (2018 TV Movie),8.5,"Documentary, Music",153 min,Thom Zimny,"Patti Scialfa,Bruce Springsteen,","1,942",
+152,Black Mirror: Bandersnatch (2018 TV Movie),7.2,"Drama, Fantasy, Mystery",90 min,David Slade,"Fionn Whitehead,Craig Parkinson,Alice Lowe,Asim Chaudhry,","113,598",
+153,Taylor Swift: Reputation Stadium Tour (2018 TV Special),8.4,"Documentary, Music",125 min,Paul Dugdale,"Taylor Swift,Matt Billingslea,Camila Cabello,Giuseppe Giofre,","4,036",
+154,Kevin Hart's Guide to Black History (2019 TV Movie),5.5,Comedy,62 min,Tom Stern,"Steve Agee,Derek Basco,Brad Berryhill,Kirk Bovill,","1,167",
+155,The Short Game (2013),7.4,"Documentary, Sport",99 min,Josh Greenbaum,"Amari Avery,Jed Dy,Allan Kournikova,Zamokuhle Nxasana,","1,368",PG
+156,The Square (2017),7.2,"Comedy, Drama",151 min,Ruben Östlund,"Claes Bang,Elisabeth Moss,Dominic West,Terry Notary,","55,672",A
+157,Mitt (2014),6.9,"Documentary, Biography, Family",94 min,Greg Whiteley,"Mitt Romney,Candy Crowley,Eric Draper,Jim Lehrer,","2,488",
+158,The Battered Bastards of Baseball (2014),8,"Documentary, Sport",80 min,Chapman Way,"Maclain Way,Lou Russell,Kurt Russell,Ken Wheeler,Todd Field,","3,312",
+159,Mission Blue (2014),7.9,"Documentary, Drama",95 min,Robert Nixon,"Fisher Stevens,Barbara Block,James Cameron,Michael deGruy,Sylvia Earle,","1,647",
+160,Print the Legend (2014),7,"Documentary, Biography, Drama",100 min,Luis Lopez,"Clay Tweel,Chris Anderson,Bruce Bradshaw,Craig Broady,Bill Buel,","1,868",
+161,E-Team (2014),7.1,Documentary,88 min,Katy Chevigny,"Ross Kauffman,Anna Neistat,Ole Solvang,Peter Bouckaert,Fred Abrahams,",803,
+162,Virunga (2014),8.2,"Documentary, War",100 min,Orlando von Einsiedel,"André Bauma,Emmanuel de Merode,Mélanie Gouby,Rodrigue Mugaruka Katembo,","10,382",
+163,My Own Man (2014),6.3,"Documentary, Comedy, Drama",82 min,David Sampliner,,389,
+164,"The Other One: The Long, Strange Trip of Bob Weir (2014)",7.3,"Documentary, Biography, Music",85 min,Mike Fleiss,"John Perry Barlow,Chuck Berry,Neal Cassady,John Coltrane,","1,411",
+165,Hot Girls Wanted (2015),6.1,Documentary,84 min,Jill Bauer,"Ronna Gradus,Tressa Silguero,Riley Reynolds,Rachel Bernard,John Anthony,","16,006",18
+166,"What Happened, Miss Simone? (2015)",7.6,"Documentary, Biography, Music",101 min,Liz Garbus,"Nina Simone,Lisa Simone Kelly,Roger Nupie,Al Schackman,","12,388",
+167,Tig (2015),7.4,Documentary,95 min,Kristina Goolsby,"Ashley York,Stephanie Allynne,Zach Galifianakis,Sarah Silverman,Jennifer Bliss,","2,375",
+168,Keith Richards: Under the Influence (2015),7.1,"Documentary, Music",81 min,Morgan Neville,"Keith Richards,Anthony DeCurtis,Steve Jordan,Tom Waits,","2,935",
+169,Winter on Fire: Ukraine's Fight for Freedom (2015),8.4,Documentary,102 min,Evgeny Afineevsky,"Bishop Agapit,Catherine Ashton,Serhii Averchenko,Kristina Berdinskikh,","12,838",
+170,My Beautiful Broken Brain (2014),7.1,"Documentary, Biography",86 min,Sophie Robinson,"Lotje Sodderland,David Lynch,Sophie Robinson,Hente Sodderland,Jan Sodderland,","2,075",
+171,Team Foxcatcher (2016),7.3,"Documentary, Biography, Crime",90 min,Jon Greenhalgh,"Dan Chaid,John du Pont,Dave Schultz,Mark Schultz,","5,217",
+172,Tony Robbins: I Am Not Your Guru (2016),6.7,Documentary,115 min,Joe Berlinger,"Sage Bonnie Humphrey,Steven Kronick,Anthony Robbins,Dawn Watson,","3,922",
+173,I'll Sleep When I'm Dead (2016),6.6,Documentary,79 min,Justin Krook,"Devon Aoki,Travis Barker,Benji Madden,Will.i.am,","1,269",
+174,Audrie & Daisy (2016),7.2,Documentary,95 min,Bonni Cohen,"Jon Shenk,Robin Bourland,Daisy Coleman,Charles Coleman,Melinda Coleman,","5,924",
+175,Amanda Knox (2016),6.9,"Documentary, Crime",92 min,Rod Blackhurst,"Brian McGinn,Amanda Knox,Meredith Kercher,Raffaele Sollecito,Giuliano Mignini,","21,339",
+176,13th (2016),8.3,"Documentary, Crime, History",100 min,Ava DuVernay,"Melina Abdullah,Michelle Alexander,Cory Booker,Dolores Canales,","31,815",
+177,Sky Ladder: The Art of Cai Guo-Qiang (2016),7.3,Documentary,76 min,Kevin Macdonald,"Ian Buruma,Guo-Qiang Cai,Wen-You Cai,Wenhao Cai,","1,190",
+178,Into the Inferno (2016),7.2,Documentary,104 min,Werner Herzog,"Werner Herzog,Clive Oppenheimer,Katia Krafft,Maurice Krafft,","7,439",
+179,The Ivory Game (2016),7.9,Documentary,112 min,Kief Davidson,"Richard Ladkani,Andrea Crosta,Ian Stevenson,Prince William,","2,917",
+180,Casting JonBenet (2017),6.1,Documentary,80 min,Kitty Green,"Hannah Cagwin,Aeona Cruz,Liv Bagley,Shylee Sagle,","4,933",
+181,The Mars Generation (2017),6.4,Documentary,97 min,Michael Barnett,"Bob Behnken,Alayna Bidlack,Niko Blanks,Charles F. Bolden Jr.,",898,
+182,Get Me Roger Stone (2017),7.4,"Documentary, Biography",92 min,Dylan Bank,"Daniel DiMauro,Morgan Pehme,Roger Stone,Donald Trump,Paul Manafort,Jeffrey Toobin,","6,775",
+183,Laerte-se (2017),6.9,Documentary,100 min,Lygia Barbosa,"Eliane Brum,Laerte Coutinho,Eliane Brum,Rafael Coutinho,Rita Lee,",625,
+184,Joshua: Teenager vs,7.1,Documentary,79 min,Joe Piscatella,"Joshua 'Chi-Fung' Wong,","1,295",
+185,CounterPunch (2017),6.7,Documentary,91 min,Jay Bulger,"Oscar De La Hoya,David Diamante,Bernard Hopkins,Sugar Ray Leonard,",786,
+186,Nobody Speak: Trials of the Free Press (2017),6.4,Documentary,95 min,Brian Knappenberger,"A.J. Daulerio,Hulk Hogan,Charles Harder,David Folkenflik,","3,672",
+187,Chasing Coral (2017),8.1,Documentary,93 min,Jeff Orlowski,"Andrew Ackerman,Pim Bongaerts,Neal Cantin,Phil Dustan,","4,411",
+188,Icarus (2017),7.9,"Documentary, Sport",120 min,Bryan Fogel,"Bryan Fogel,Dave Zabriskie,Don Catlin,Grigory Rodchenkov,","39,543",
+189,Strong Island (2017),6.4,Documentary,107 min,Yance Ford,"Yance Ford,Harvey Walker,Kevin Myers,Lauren Ford,","3,534",
+190,Gaga: Five Foot Two (2017),7,"Documentary, Music",100 min,Chris Moukarbel,"Sandra Amador,Michael Bearden,Tony Bennett,BloodPop,","11,615",
+191,The Death and Life of Marsha P,7.3,Documentary,105 min,David France,"Kurt Wolfe,Sue Yacka,Catherine Shugrue Dos Santos,Victoria Cruz,","2,300",
+192,Kingdom of Us (2017),7,"Documentary, Drama",109 min,Lucy Cohen,"Jamie-Jodie Shanks,Kacie-Kimie Shanks,Lorie-Lanie Shanks,Mirie-Marie Shanks,",789,
+193,One of Us (IV) (2017),7.1,Documentary,95 min,Heidi Ewing,"Rachel Grady,Etty,Chani Getter,Ari Hershkowitz,Luzer Twersky,","5,764",
+194,Joan Didion: The Center Will Not Hold (2017),7.4,Documentary,94 min,Griffin Dunne,"Hilton Als,Tom Brokaw,Dick Cheney,Jim Didion,","1,738",
+195,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton (2017)",7.7,Documentary,94 min,Chris Smith,"Jim Carrey,Danny DeVito,Milos Forman,Peter Bonerz,","23,197",
+196,Saving Capitalism (2017),6.8,Documentary,73 min,Jacob Kornbluth,"Sari Gilman,Robert Reich,Darvin Bentlage,Annie Presley,Guadalupe,","2,677",
+197,Cuba and the Cameraman (2017),8.3,Documentary,113 min,Jon Alpert,,"3,269",
+198,Voyeur (II) (2017),6.2,Documentary,95 min,Myles Kane,"Josh Koury,Gay Talese,Gerald Foos,Nan Talese,Susan Morrison,","4,896",
+199,Seeing Allred (2018),6.9,Documentary,96 min,Roberta Grossman,"Sophie Sartain,Gloria Allred,Lisa Bloom,Bill Cosby,Roy Moore,","1,005",
+200,Take Your Pills (2018),6.4,Documentary,87 min,Alison Klayman,"Ariana,Delaney,Jasper Holt-Teza,Leigh,","4,403",
+201,Mercury 13 (2018),6.8,Documentary,78 min,David Sington,"Heather Walsh,Joyce Case,Bill Clinton,Hillary Clinton,Jerrie Cobb,",967,
+202,The Rachel Divide (2018),6.2,Documentary,100 min,Laura Brownson,"Rachel Dolezal,Franklin Dolezal,Izaiah Dolezal,Esther Dolezal,","1,911",
+203,Recovery Boys (2018),6.6,Documentary,89 min,Elaine McMillion Sheldon,,599,
+204,The Bleeding Edge (2018),7.7,Documentary,99 min,Kirby Dick,"Robert Bridges,Angie Firmalino,Rita Redberg,Stephen Tower,","2,183",
+205,Reversing Roe (2018),7.4,Documentary,99 min,Ricki Stern,"Anne Sundberg,Donna Howard,John Seago,Brigitte Amiri,Troy Newman,","1,066",
+206,Quincy (2018),7.6,"Documentary, Biography",124 min,Alan Hicks,"Rashida Jones,Quincy Jones,Rashida Jones,Kareem Abdul-Jabbar,Clarence Avant,","3,715",
+207,Dos Cataluñas (2018),6.4,"Documentary, History, News",116 min,Álvaro Longoria,"Gerardo Olivares,Luis María Anson,Inés Arrimadas,Elsa Artadi,Antoni Bassas,",612,
+208,Feminists: What Were They Thinking? (2018),7,Documentary,86 min,Johanna Demetrakas,"Laurie Anderson,Phyllis Chesler,Judy Chicago,Funmilola Fagbamila,","1,812",
+209,ReMastered: Who Shot the Sheriff? (2018 TV Movie),6.9,Documentary,57 min,Kief Davidson,"Bob Marley,Arnold Bertram,Cindy Breakspeare,Nancy Burke,","1,048",
+210,Shirkers (2018),7.4,Documentary,97 min,Sandi Tan,"Sandi Tan,Jasmine Kin Kia Ng,Philip Cheah,Sophia Siddique Harvey,","4,408",
+211,ReMastered: Tricky Dick and the Man in Black (2018 TV Movie),7.1,"Documentary, Biography",59 min,Sara Dosa,"Barbara Kopple,Johnny Cash,Richard Nixon,Aram Bakshian,Pat Buchanan,","1,188",
+212,They'll Love Me When I'm Dead (2018),7.4,Documentary,98 min,Morgan Neville,"Alan Cumming,Peter Bogdanovich,Oja Kodar,Orson Welles,","4,439",
+213,ReMastered: Who Killed Jam Master Jay? (2018 TV Movie),6.6,Documentary,58 min,Brian Oakes,"Jam Master Jay,DJ Hurricane,Rahman Dukes,Darryl McDaniels,",597,
+214,The American Meme (2018),7,Documentary,98 min,Bert Marcus,"Kirill Bichutsky,Hailey Bieber,Amanda Cerny,Dane Cook,","8,861",
+215,Struggle: The Life and Lost Art of Szukalski (2018),8,Documentary,115 min,Irek Dobrowolski,"Stanislav Szukalski,Glenn Bray,Robert Williams,Suzanne Williams,","3,281",
+216,ReMastered: Massacre at the Stadium (2019 TV Movie),7.3,"Documentary, Drama",64 min,B.J. Perlmutt,"Bent-Jorgen Perlmutt,Víctor Jara,Joan Jara,Pascale Bonnefoy,Joyce Horman,",616,
+217,Fyre (2019),7.2,"Documentary, Music",97 min,Chris Smith,"Billy McFarland,Jason Bell,Gabrielle Bluestone,Shiyuan Deng,","36,879",
+218,ReMastered: The Two Killings of Sam Cooke (2019 TV Movie),7.3,"Documentary, Music",74 min,Kelly Duane,"Sam Cooke,Quincy Jones,Smokey Robinson,Dionne Warwick,","1,751",
+219,The White Helmets,,Drama,,,,,
+220,Resurface (2017),7,"Documentary, Short, Sport",26 min,Joshua Izenberg,"Wynn Padula,Bobby Lane,Van Curaza,Martin Pollock,Mike Shurley,",380,
+221,Long Shot (2017 TV Movie),7.4,"Documentary, Crime, Sport",40 min,Jacob LaMendola,"Tasha Boggs,Juan Catalan,Melissa Catalan,Miguel Catalan,","5,661",13
+222,"Out of Many, One (2018)",5.6,"Documentary, Short",34 min,John Hoffman,"Nanfu Wang,",212,
+223,Murder Mystery (2019),6,"Action, Comedy, Crime",97 min,Kyle Newacheck,"Adam Sandler,Jennifer Aniston,Luke Evans,Terence Stamp,","102,738",12
+224,All the Bright Places (2020),6.5,"Drama, Romance",107 min,Brett Haley,"Elle Fanning,Justice Smith,Alexandra Shipp,Kelli O'Hara,","20,486",
+225,Always Be My Maybe (2019),6.8,"Comedy, Romance",101 min,Nahnatchka Khan,"Ali Wong,Randall Park,James Saito,Michelle Buteau,","46,244",13
+226,A pesar de todo (2019),5.4,Comedy,78 min,Gabriela Tagliavini,"Blanca Suárez,Macarena García,Amaia Salamanca,Belén Cuesta,","4,175",
+227,¿A quién te llevarías a una isla desierta? (2019),5.3,Drama,93 min,Jota Linares,"Pol Monen,Jaime Lorente,Andrea Ros,María Pedraza,","2,223",
+228,Beats (II) (2019),7.1,"Comedy, Crime, Drama",101 min,Brian Welsh,"Cristian Ortega,Lorn Macdonald,Laura Fraser,Brian Ferguson,","3,182",
+229,Christmas in the Wild (2019),6.1,"Comedy, Drama, Romance",85 min,Ernie Barbarash,"Rob Lowe,Kristin Davis,Fezile Mpela,John Owen Lowe,","12,251",
+230,Diecisiete (2019),7.2,Drama,99 min,Daniel Sánchez Arévalo,"Biel Montoro,Nacho Sánchez,Lola Cordón,Itsaso Arana,","3,232",
+231,Eli (I) (2019),5.7,"Drama, Horror, Mystery",98 min,Ciarán Foy,"Charlie Shotwell,Kelly Reilly,Max Martini,Lili Taylor,","29,138",R
+232,First Ladies,,Comedy,,Jennifer Aniston,"Tig Notaro,",,
+233,Fractured (I) (2019),6.4,"Mystery, Thriller",99 min,Brad Anderson,"Sam Worthington,Lily Rabe,Lucy Capri,Adjoa Andoh,","54,848",
+234,Klaus (2019),8.2,"Animation, Adventure, Comedy",96 min,Sergio Pablos,"Carlos Martínez López,Jason Schwartzman,J.K. Simmons,Rashida Jones,Will Sasso,","104,935",7
+235,Sergio (2020),6.1,"Biography, Drama, History",118 min,Greg Barker,"Wagner Moura,Ana de Armas,Brían F. O'Byrne,Bradley Whitford,","8,072",18
+236,6 Underground (2019),6.1,"Action, Thriller",128 min,Michael Bay,"Ryan Reynolds,Mélanie Laurent,Manuel Garcia-Rulfo,Ben Hardy,","139,586",18
+237,The Irishman (2019),7.9,"Biography, Crime, Drama",209 min,Martin Scorsese,"Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,","325,049",16
+238,The King (I) (2019),7.2,"Biography, Drama, History",140 min,David Michôd,"Tom Glynn-Carney,Gábor Czap,Tom Fisher,Edward Ashley,","89,179",18
+239,The Last Summer (2019),5.6,"Comedy, Romance",109 min,William Bindley,"K.J. Apa,Maia Mitchell,Norman Johnson Jr.,Jacob Latimore,","11,165",
+240,The Last Thing He Wanted (2020),4.3,"Crime, Drama, Thriller",115 min,Dee Rees,"Anne Hathaway,Ben Affleck,Rosie Perez,Willem Dafoe,","12,576",18
+241,The Laundromat (I) (2019),6.3,"Comedy, Crime, Drama",95 min,Steven Soderbergh,"Gary Oldman,Antonio Banderas,AJ Meijer,Arsenio Castellanos,","44,009",18
+242,Hogar (2020),6.3,"Adventure, Drama, Thriller",103 min,David Pastor,"Àlex Pastor,Javier Gutiérrez,Mario Casas,Bruna Cusí,Ruth Díaz,","13,161",16
+243,Jingle Jangle: A Christmas Journey (2020),6.5,"Family, Fantasy, Musical",122 min,David E. Talbert,"Forest Whitaker,Keegan-Michael Key,Hugh Bonneville,Anika Noni Rose,","15,099",PG
+244,Over the Moon (2020),6.5,"Animation, Adventure, Comedy",95 min,Glen Keane,"John Kahrs,Glen Keane,Brycen Hall,Ruthie Ann Miles,John Cho,","11,384",7
+245,The Willoughbys (2020),6.4,"Animation, Adventure, Comedy",90 min,Kris Pearn,"Cory Evans,Rob Lodermeier,Will Forte,Maya Rudolph,Alessia Cara,Terry Crews,","13,116",7+
+246,My Father's Dragon,,,,Nora Twomey,,,
+247,Pinocchio (2021),,"Animation, Fantasy, Musical",,Guillermo del Toro,"Mark Gustafson,Cate Blanchett,Ewan McGregor,Tilda Swinton,Christoph Waltz,",,
+248,Wendell and Wild (2021),,"Animation, Comedy, Horror",,Henry Selick,"Jordan Peele,Keegan-Michael Key,",,
+249,Escape from Hat,,Animation,,Mark Osborne,,,
+250,Jacob and the Sea Beast,,Animation,,Chris Williams,,,
+251,13 Minutes,,"Drama, Thriller",,Jimmy Waitman,,,
+252,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019),7.6,"Documentary, Biography, History",142 min,Martin Scorsese,"Bob Dylan,Allen Ginsberg,Patti Smith,Martin von Haselberg,","5,341",
+253,The Edge of Democracy (2019),7.2,"Documentary, History",121 min,Petra Costa,"Dilma Rousseff,Luiz Inácio Lula da Silva,Marisa Letícia Lula da Silva,Sergio Moro,","13,258",
+254,The Legend of Cocaine Island (2018),6.3,Documentary,83 min,Theo Love,"Bo Butterworth,Bri Bryant,Andy Culpepper,Arthur Dean,","2,818",
+255,Before I Wake (2016),6.2,"Drama, Fantasy, Horror",97 min,Mike Flanagan,"Kate Bosworth,Oleksandr Reshetilov,Thomas Jane,Jacob Tremblay,","40,044",PG-13
+256,The Boy Who Harnessed the Wind (2019),7.6,"Biography, Drama, History",113 min,Chiwetel Ejiofor,"Chiwetel Ejiofor,Maxwell Simba,Felix Lemburo,Robert Agengo,","28,773",
+257,6 Days (I) (2017),6.2,"Action, Drama, History",94 min,Toa Fraser,"Jamie Bell,Mark Strong,Abbie Cornish,Martin Shaw,","18,508",R
+258,Anon (I) (2018),6.1,"Crime, Sci-Fi, Thriller",100 min,Andrew Niccol,"Clive Owen,Afiya Bennett,Morgan Allen,Jeffrey Men,","37,663",
+259,Brain on Fire (2016),6.6,"Biography, Drama",88 min,Gerard Barrett,"Chloë Grace Moretz,Thomas Mann,Richard Armitage,Carrie-Anne Moss,","17,888",PG-13
+260,The Breaker Upperers (2018),5.9,Comedy,90 min,Madeleine Sami,"Jackie van Beek,Madeleine Sami,Jackie van Beek,James Rolleston,Celia Pacquola,","5,357",
+261,Bushwick (2017),5.2,"Action, Thriller",94 min,Jonathan Milott,"Cary Murnion,Dave Bautista,Brittany Snow,Angelic Zambrana,Jeremie Harris,","10,491",
+262,Catching Feelings (2017),5.6,"Comedy, Drama, Romance",124 min,Kagiso Lediga,"Kagiso Lediga,Pearl Thusi,Andrew Buckland,Akin Omotoso,",494,
+263,Close (I) (2019),5.7,"Action, Drama, Thriller",94 min,Vicky Jewson,"Noomi Rapace,Olivia Jewson,Abdellatif Chaouqi,Sophie Nélisse,","21,185",
+264,David Brent: Life on the Road (2016),6.3,"Comedy, Music",96 min,Ricky Gervais,"Ricky Gervais,Rob Jarvis,Abbie Murphy,Mandeep Dhillon,","18,489",
+265,Dumplin' (2018),6.6,"Comedy, Drama",110 min,Anne Fletcher,"Danielle Macdonald,Jennifer Aniston,Odeya Rush,Maddie Baillio,","28,767",PG-13
+266,"Extremely Wicked, Shockingly Evil and Vile (2019)",6.6,"Biography, Crime, Drama",110 min,Joe Berlinger,"Lily Collins,Zac Efron,Angela Sarafyan,Sydney Vollmer,","79,204",R
+267,The Guernsey Literary and Potato Peel Pie Society (2018),7.4,"Drama, Romance, War",124 min,Mike Newell,"Jessica Brown Findlay,Tom Courtenay,Michiel Huisman,Katherine Parkinson,","35,348",Not Rated
+268,Kodachrome (2017),6.8,Drama,105 min,Mark Raso,"Ed Harris,Jason Sudeikis,Elizabeth Olsen,Bruce Greenwood,","11,886",
+269,The Kindergarten Teacher (2018),6.7,Drama,96 min,Sara Colangelo,"Maggie Gyllenhaal,Gael García Bernal,Ato Blankson-Wood,Libya Pugh,","13,062",R
+270,Malevolent (III) (2018),4.8,"Horror, Mystery, Thriller",89 min,Olaf de Fleur Johannesson,"Florence Pugh,Ben Lloyd-Hughes,Scott Chambers,Georgina Bevan,","10,711",
+271,Message from the King (2016),6.4,"Action, Crime, Drama",102 min,Fabrice du Welz,"Chadwick Boseman,Luke Evans,Alfred Molina,Teresa Palmer,","13,679",R
+272,Mindhorn (2016),6.3,"Comedy, Thriller",89 min,Sean Foley,"Julian Barratt,Simon Farnaby,Essie Davis,Steve Coogan,","11,223",
+273,Mudbound (2017),7.4,"Drama, War",134 min,Dee Rees,"Jason Mitchell,Carey Mulligan,Jason Clarke,Mary J. Blige,","42,668",R
+274,Second Act (2018),5.8,"Comedy, Drama, Romance",103 min,Peter Segal,"Jennifer Lopez,Vanessa Hudgens,Leah Remini,Treat Williams,","22,668",A
+275,The Titan (2018),4.8,"Drama, Mystery, Romance",97 min,Lennart Ruff,"Sam Worthington,Taylor Schilling,Tom Wilkinson,Agyness Deyn,","28,270",
+276,Two Lovers and a Bear (2016),6.1,"Adventure, Drama, Romance",96 min,Kim Nguyen,"Tatiana Maslany,Dane DeHaan,Joel Gagne,Gordon Pinsent,","1,764",R
+277,What Happened to Monday (2017),6.9,"Action, Adventure, Crime",123 min,Tommy Wirkola,"Noomi Rapace,Glenn Close,Willem Dafoe,Marwan Kenzari,","106,012",
+278,You Get Me (2017),4.6,"Crime, Drama, Romance",89 min,Brent Bonacorso,"Bella Thorne,Halston Sage,Taylor John Smith,Nash Grier,","11,594",
+279,La 4ª Compañía (2016),6.2,"Action, Adventure, Crime",109 min,Mitzi Vanessa Arreola,"Amir Galván Cervera,Adrian Ladron,Andoni Gracia,Hernán Mendoza,Gabino Rodríguez,",718,
+280,Ánimas (2018),4.8,"Horror, Thriller",83 min,Laura Alvea,"José Ortuño,Ángela Molina,Luis Bermejo,Chacha Huang,Liz Lobato,","1,107",
+281,La noche de 12 años (2018),7.6,"Biography, Crime, Drama",122 min,Álvaro Brechner,"Antonio de la Torre,Chino Darín,Alfonso Tort,César Troncoso,","8,483",
+282,"El Potro, lo mejor del amor (2018)",5.2,"Biography, Drama, Music",122 min,Lorena Muñoz,"Rodrigo Romero,Florencia Peña,Fernán Mirás,Daniel Aráoz,",667,
+283,La sombra de la ley (2018),6.3,"Action, Adventure, Crime",126 min,Dani de la Torre,"Luis Tosar,Michelle Jenner,Vicente Romero,Manolo Solo,","3,341",
+284,Soltera Codiciada (2018),6.2,Comedy,104 min,Bruno Ascenzo,"Joanna Lombardi,Gisela Ponce de León,Karina Jordán,Christopher Von Uckermann,Jely Reategui,","1,782",
+285,Jefe (2018),5.4,Comedy,89 min,Sergio Barrejón,"Luis Callejo,Juana Acosta,Carlo D'Ursi,Josean Bengoetxea,",930,
+286,Las leyes de la termodinámica (2018),6.1,Comedy,100 min,Mateo Gil,"Vito Sanz,Berta Vázquez,Chino Darín,Vicky Luengo,","2,446",
+287,El faro de las orcas (2016),6.7,"Biography, Drama, Romance",110 min,Gerardo Olivares,"Maribel Verdú,Joaquín Furriel,Joaquín Rapalini,Ana Celentano,","3,390",
+288,El autor (2017),6.5,"Comedy, Crime, Drama",112 min,Manuel Martín Cuenca,"Javier Gutiérrez,María León,Adelfa Calvo,Adriana Paz,","4,823",
+289,Órbita 9 (2017),5.9,"Drama, Romance, Sci-Fi",95 min,Hatem Khraiche,"Clara Lago,Álex González,Andrés Parra,Belén Rueda,","6,600",
+290,Perdida (2018),5.6,"Crime, Drama, Mystery",103 min,Alejandro Montiel,"Mara Alberto,Carlos Alcantára,Juan Ignacio Cane,Pedro Casablanc,","4,208",
+291,Pickpockets: Maestros del robo (2018),5.4,"Crime, Drama",108 min,Peter Webber,"Carlos Bardem,Carlos Humberto Camacho,Ulises Gonzalez,Marcela Mar,","1,015",
+292,El cuaderno de Sara (2018),5.9,"Adventure, Drama, Mystery",115 min,Norberto López Amado,"Belén Rueda,Marian Álvarez,Iván Mendes,Manolo Cardona,","2,432",
+293,Bajo la piel de lobo (2017),5.8,"Action, Adventure, Drama",110 min,Samu Fuentes,"Mario Casas,Irene Escolar,Ruth Díaz,Kandido Uranga,","2,442",
+294,Solo (II) (2018),4.9,"Adventure, Drama, Romance",91 min,Hugo Stuven,"Alain Hernández,Aura Garrido,Ben Temple,Leticia Etala,","2,333",
+295,La enfermedad del domingo (2018),6.9,Drama,113 min,Ramón Salazar,"Bárbara Lennie,Susi Sánchez,Greta Fernández,Bruna González,","3,019",PG-13
+296,Tiempo compartido (2018),6,"Drama, Mystery, Thriller",96 min,Sebastián Hofmann,"Luis Gerardo Méndez,Miguel Rodarte,RJ Mitte,Cassandra Ciangherotti,","2,358",
+297,El árbol de la sangre (2018),6.4,Drama,130 min,Julio Medem,"Álvaro Cervantes,Úrsula Corberó,Patricia López Arnaiz,Joaquín Furriel,","2,425",
+298,La tribu (2018),5.8,Comedy,90 min,Fernando Colomo,"Paco León,Carmen Machi,Maribel del Pino,María José Sarrate,","2,289",
+299,El aviso (2018),5.9,"Action, Adventure, Crime",92 min,Daniel Calparsoro,"Raúl Arévalo,Aura Garrido,Hugo Arbues,Belén Cuesta,","5,473",
+300,Cuando los ángeles duermen (2018),5.4,"Action, Adventure, Crime",91 min,Gonzalo Bendala,"Julián Villagrán,Marian Álvarez,Ester Expósito,Sira Alonso,","3,145",
+301,Yucatán (I) (2018),5.5,"Adventure, Comedy",129 min,Daniel Monzón,"Luis Tosar,Rodrigo De la Serna,Joan Pera,Stephanie Cayo,","1,730",
+302,Mauvaises herbes (2018),7.3,Comedy,100 min,Kheiron,"Kheiron,Catherine Deneuve,André Dussollier,Louison Blivet,","4,169",
+303,Budapest (2018),5.4,Comedy,102 min,Xavier Gens,"Manu Payet,Jonathan Cohen,Monsieur Poulpe,Alice Belaïdi,","2,306",
+304,L'ascension (I) (2017),6.9,"Adventure, Comedy, Romance",103 min,Ludovic Bernard,"Ahmed Sylla,Alice Belaïdi,Kévin Razy,Nicolas Wanczycki,","5,656",
+305,The Crew (2018),6.3,Documentary,,Eslam Rasmy,"Ahmed Helmy,Youssra,Mona Zaki,Sherif Mounir,",23,
+306,Divines (2016),7.4,"Crime, Drama",105 min,Houda Benyamina,"Oulaya Amamra,Déborah Lukumuena,Kévin Mischel,Jisca Kalvanda,","8,835",
+307,Iris (III) (2016),6.1,"Drama, Thriller",99 min,Jalil Lespert,"Romain Duris,Charlotte Le Bon,Jalil Lespert,Camille Cottin,","3,549",
+308,Le voyage au Groenland (2016),6.3,"Comedy, Drama",98 min,Sébastien Betbeder,"Thomas Blanchard,Thomas Scimeca,François Chattot,Ole Eliassen,","1,104",
+309,Mercenaire (I) (2016),6.4,"Drama, Sport",103 min,Sacha Wolff,"Toki Pilioko,Iliana Zabeth,Mikaele Tuugahala,Laurent Pakihivatau,",663,
+310,Le jeu (2018),6.8,"Comedy, Drama",90 min,Fred Cavayé,"Bérénice Bejo,Suzanne Clément,Stéphane De Groodt,Vincent Elbaz,","12,397",
+311,Les affamés (2017),5.9,"Action, Adventure, Drama",104 min,Robin Aubert,"Marc-André Grondin,Monia Chokri,Charlotte St-Martin,Micheline Lanctôt,","8,130",
+312,Le monde est à toi (2018),6.4,"Comedy, Crime",102 min,Romain Gavras,"Karim Leklou,Isabelle Adjani,Vincent Cassel,Oulaya Amamra,","3,693",
+313,Ma-yak-wang (2018),6.2,"Action, Crime, Drama",139 min,Min-ho Woo,"Kang-ho Song,Jo Jung-Suk,Bae Doona,Si-Won Cha,","2,270",
+314,Sanglyusahoe (2018),5.4,Drama,120 min,Hyuk Byun,"Park Hae-il,Soo Ae,Kim Gyu-Sun,Jin-wook Lee,",654,18
+315,Inrang (2018),6,"Action, Sci-Fi",139 min,Jee-woon Kim,"Dong-won Gang,Han Hyo-joo,Jung Woo-sung,Yeri Han,","4,059",
+316,Loosideu deurim (2017),6.1,"Sci-Fi, Thriller",101 min,Joon-Sung Kim,"Kyung-gu Sol,Soo Go,Kang Hye-jeong,Yoo-chun Park,","2,932",
+317,Pan-dola (2016),6.7,"Action, Drama, Thriller",136 min,Jong-woo Park,"Do-bin Baek,Seung-Hoon Choi,Sung-Wook Eo,Bae Gang-Yoo,","5,830",UA
+318,Yeom-lyeok (2018),5.9,"Action, Comedy, Fantasy",101 min,Sang-ho Yeon,"Seung-ryong Ryu,Eun-kyung Shim,Jung-min Park,Jung Yu-mi,","4,719",UA
+319,Revenger (2018),5.7,"Action, Crime, Thriller",101 min,Seung-Won Lee,"Je-Heon Choi,SooJin Jeong,Bruce Khan,In-kwon Kim,","3,640",18
+320,Gangcheolbi (2017),7.1,"Action, Drama, Thriller",139 min,WooSuk Yang,"Jung Woo-sung,Do-won Kwak,Kim Kap-su,Eui-sung Kim,","4,401",
+321,Hundraettåringen som smet från notan och försvann (2016),6.3,"Adventure, Comedy, Crime",108 min,Felix Herngren,"Måns Herngren,Robert Gustafsson,Iwar Wiklander,David Wiberg,Shima Niavarani,","5,319",
+322,Mata Batin (2017),5.1,"Drama, Fantasy, Horror",107 min,Rocky Soraya,"Jessica Mila,Denny Sumargo,Citra Prima,Bianca Hello,","1,136",18
+323,Ali's Wedding (2017),6.9,"Comedy, Drama, Romance",110 min,Jeffrey Walker,"Osamah Sami,Don Hany,Helana Sawires,Robert Rabiah,","4,371",
+324,Andið eðlilega (2018),6.9,Drama,95 min,Isold Uggadottir,"Kristín Þóra Haraldsdóttir,Babetida Sadjo,Patrik Nökkvi Pétursson,Bragi Arnason,","2,443",
+325,Bleach: Burîchu (2018),6.4,"Action, Adventure, Fantasy",108 min,Shinsuke Sato,"Sôta Fukushi,Hana Sugisaki,Ryô Yoshizawa,Erina Mano,","10,330",
+326,One Two Jaga (2018),6.5,"Crime, Drama",85 min,Namron,"Zahiril Adzim,Ario Bayu,Rosdeen Suboh,Asmara Abigail,",555,
+327,Shei xian ai shang ta de (2018),7.3,"Comedy, Drama, Romance",100 min,Chih-Yen Hsu,"Mag Hsu,Roy Chiu,Ying-Hsuan Hsieh,Spark Chen,Joseph Huang,","3,843",
+328,Dovlatov (2018),6.4,"Biography, Drama",126 min,Aleksey German Jr.,"Milan Maric,Danila Kozlovsky,Helena Sujecka,Artur Beschastnyy,","1,735",PG-13
+329,Errementari (2017),6.4,"Fantasy, Horror",98 min,Paul Urkijo Alijo,"Kandido Uranga,Uma Bracaglia,Eneko Sagardoy,Ramón Agirre,","9,648",
+330,Goyo: Ang batang heneral (2018),6.6,"Action, Biography, History",155 min,Jerrold Tarog,"Paulo Avelino,Carlo Aquino,Arron Villaflor,Mon Confiado,",675,
+331,Lazzaro felice (2018),7.5,"Drama, Fantasy",128 min,Alice Rohrwacher,"Adriano Tardiolo,Agnese Graziani,Alba Rohrwacher,Luca Chikovani,","15,336",PG-13
+332,Kuntilanak (2018),4.7,"Comedy, Horror",105 min,Rizal Mantovani,"Sandrinna Michelle,Aurélie Moeremans,Fero Walandouw,Nena Rosier,",545,
+333,Layla M,6.7,Drama,98 min,Mijke de Jong,"Nora El Koussour,Ilias Addab,Hassan Akkouch,Yasemin Cetinkaya,","1,458",
+334,Maktub (2017),7.4,"Comedy, Drama",100 min,Oded Raz,"Guy Amir,Hanan Savyon,Gal Amitai,Chen Amsalem,","1,333",
+335,Zhui bu (2017),5.2,"Action, Crime, Thriller",106 min,John Woo,"Hanyu Zhang,Masaharu Fukuyama,Stephy Qi,Ha Ji-Won,","2,725",
+336,Sebelum Iblis Menjemput (2018),6,"Horror, Mystery, Thriller",110 min,Timo Tjahjanto,"Chelsea Islan,Pevita Pearce,Ray Sahetapy,Karina Suwandhi,","3,427",
+337,Chemi Bednieri Ojakhi (2017),7.4,Drama,120 min,Nana Ekvtimishvili,"Simon Groß,Ia Shugliashvili,Merab Ninidze,Berta Khapava,Tsisia Qumsishvili,","3,137",
+338,Teströl és lélekröl (2017),7.6,"Drama, Fantasy, Mystery",116 min,Ildikó Enyedi,"Alexandra Borbély,Géza Morcsányi,Réka Tenki,Zoltán Schneider,","24,025",
+339,Pulang (2018),6.7,Drama,120 min,Kabir Bhatia,"Remy Ishak,Puteri Aishah,Alvin Wong,Azrel Ismail,",540,
+340,Bankier van het verzet (2018),6.9,"Biography, Drama, War",123 min,Joram Lürsen,"Jacob Derwig,Barry Atsma,Fockeline Ouwerkerk,Pierre Bokma,","7,720",
+341,Sabrina (2018),4.2,"Horror, Thriller",113 min,Rocky Soraya,"Luna Maya,Christian Sugiono,Sara Wijayanto,Jeremy Thomas,","1,480",16+
+342,Sufat Chol (2016),6.8,Drama,87 min,Elite Zexer,"Lamis Ammar,Ruba Blal,Hitham Omari,Khadija Al Akel,","3,119",
+343,Slam: Tutto per una ragazza (2016),6,"Comedy, Drama, Romance",100 min,Andrea Molaioli,"Ludovico Tersigni,Barbara Ramella,Jasmine Trinca,Luca Marinelli,","1,183",
+344,Hou lai de wo men (2018),7.4,"Drama, Romance",120 min,Rene Liu,"Boran Jing,Dongyu Zhou,Zhuangzhuang Tian,Zheming Qu,","2,895",
+345,Duck Duck Goose (I) (2018),5.7,"Animation, Adventure, Comedy",91 min,Christopher Jenkins,"Jim Gaffigan,Zendaya,Lance Lim,Greg Proops,","3,174",PG
+346,Si shi qing chun (2018),6.6,"Animation, Drama, Romance",74 min,Haoling Li,"Yoshitaka Takeuch,Xiaoxing Yi,George Ackles,Taito Ban,Dorothy Elias-Fahn,Matt Fowler,","5,666",U
+347,Gojira: kessen kidô zôshoku toshi (2018),5.8,"Animation, Action, Sci-Fi",101 min,Hiroyuki Seshita,"Kôbun Shizuno,Mamoru Miyano,Takahiro Sakurai,Kana Hanazawa,Tomokazu Sugita,","4,177",
+348,Gojira: Kaijû Wakusei (2017),6,"Animation, Action, Sci-Fi",89 min,Hiroyuki Seshita,"Kôbun Shizuno,Mamoru Miyano,Takahiro Sakurai,Kana Hanazawa,Tomokazu Sugita,","7,539",
+349,Gojira: hoshi wo kû mono (2018),5,"Animation, Action, Adventure",91 min,Hiroyuki Seshita,"Kôbun Shizuno,Mamoru Miyano,Takahiro Sakurai,Kana Hanazawa,Tomokazu Sugita,","3,446",
+350,Gnome Alone (2017),5.6,"Animation, Adventure, Comedy",85 min,Peter Lepeniotis,"Becky G,Josh Peck,Tara Strong,Olivia Holt,","2,858",PG
+351,Le Petit Prince (2015),7.7,"Animation, Adventure, Drama",108 min,Mark Osborne,"Jeff Bridges,Mackenzie Foy,Rachel McAdams,Marion Cotillard,","56,741",PG
+352,Sahara (2017),5.6,"Animation, Adventure, Comedy",86 min,Pierre Coré,"Omar Sy,Louane Emera,Franck Gastambide,Vincent Lacoste,","2,448",
+353,Croc-Blanc (2018),6.9,"Animation, Adventure",85 min,Alexandre Espigares,"Raphaël Personnaz,Virginie Efira,Dominique Pinon,Frantz Confiac,","3,151",
+354,An Afternoon with SCTV (TV Special),,Talk-Show,,Martin Scorsese,"Catherine O'Hara,Eugene Levy,Rick Moranis,Martin Short,",,
+355,Derren Brown: Miracle (2016 TV Special),6.6,Documentary,73 min,Julia Knowles,"John L. Spencer,Derren Brown,",924,
+356,Derren Brown: Pushed to the Edge (2016 TV Special),7.5,Reality-TV,68 min,Jon Richards,"Ben Adams,Dave Bibby,Derren Brown,Tom Carter,","3,339",
